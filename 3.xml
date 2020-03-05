@@ -1,0 +1,2547 @@
+<list>
+  <file path="180115_123425_00000.png" tags="" viewed="1">
+    <object className="car" x="2" y="463" width="90" height="98" />
+    <object className="sign" x="795" y="406" width="39" height="32" />
+    <object className="sign" x="849" y="390" width="40" height="39" />
+  </file>
+  <file path="180115_123425_00010.png" tags="" viewed="1">
+    <object className="sign" x="828" y="404" width="42" height="35" />
+    <object className="sign" x="910" y="378" width="52" height="47" />
+  </file>
+  <file path="180115_123425_00020.png" tags="" viewed="1">
+    <object className="sign" x="878" y="380" width="50" height="47" />
+    <object className="sign" x="1028" y="329" width="76" height="65" />
+  </file>
+  <file path="180115_123425_00030.png" tags="" viewed="1">
+    <object className="sign" x="960" y="348" width="67" height="57" />
+  </file>
+  <file path="180115_123425_00040.png" tags="" viewed="1">
+    <object className="sign" x="387" y="437" width="20" height="22" />
+    <object className="sign" x="1122" y="280" width="95" height="87" />
+  </file>
+  <file path="180115_124426_00000.png" tags="" viewed="1">
+    <object className="sign" x="300" y="348" width="64" height="61" />
+    <object className="sign" x="825" y="351" width="64" height="69" />
+  </file>
+  <file path="180115_124426_00010.png" tags="" viewed="1">
+    <object className="sign" x="894" y="305" width="90" height="92" />
+    <object className="sign" x="195" y="312" width="78" height="76" />
+  </file>
+  <file path="180115_124426_00020.png" tags="" viewed="1">
+    <object className="car" x="495" y="468" width="67" height="29" />
+    <object className="sign" x="1038" y="208" width="153" height="141" />
+    <object className="sign" x="0" y="262" width="96" height="108" />
+    <object className="sign" x="721" y="434" width="25" height="22" />
+  </file>
+  <file path="180115_124426_00030.png" tags="" viewed="1">
+    <object className="car" x="490" y="463" width="75" height="34" />
+    <object className="sign" x="730" y="438" width="28" height="25" />
+  </file>
+  <file path="180115_124426_00040.png" tags="" viewed="1">
+    <object className="car" x="478" y="463" width="79" height="31" />
+    <object className="sign" x="732" y="433" width="25" height="23" />
+  </file>
+  <file path="180115_124459_00000.png" tags="" viewed="1">
+    <object className="car" x="549" y="462" width="41" height="37" />
+    <object className="car" x="508" y="463" width="41" height="33" />
+    <object className="sign" x="503" y="427" width="25" height="22" />
+    <object className="sign" x="649" y="431" width="21" height="21" />
+  </file>
+  <file path="180115_124459_00010.png" tags="" viewed="1">
+    <object className="car" x="525" y="467" width="49" height="39" />
+    <object className="car" x="485" y="466" width="37" height="37" />
+    <object className="sign" x="632" y="434" width="21" height="20" />
+    <object className="sign" x="477" y="428" width="21" height="20" />
+    <object className="sign" x="629" y="411" width="24" height="21" />
+  </file>
+  <file path="180115_124459_00020.png" tags="" viewed="1">
+    <object className="car" x="605" y="458" width="69" height="25" />
+    <object className="car" x="500" y="460" width="54" height="45" />
+    <object className="car" x="458" y="460" width="40" height="36" />
+    <object className="sign" x="616" y="405" width="25" height="21" />
+    <object className="sign" x="452" y="419" width="21" height="22" />
+    <object className="sign" x="617" y="425" width="24" height="20" />
+  </file>
+  <file path="180115_124459_00030.png" tags="" viewed="1">
+    <object className="car" x="468" y="457" width="70" height="52" />
+    <object className="car" x="877" y="461" width="192" height="100" />
+    <object className="car" x="440" y="457" width="45" height="38" />
+    <object className="car" x="605" y="452" width="64" height="27" />
+    <object className="sign" x="608" y="418" width="24" height="23" />
+    <object className="sign" x="605" y="395" width="28" height="23" />
+    <object className="sign" x="429" y="411" width="21" height="24" />
+  </file>
+  <file path="180115_124459_00040.png" tags="" viewed="1">
+    <object className="car" x="941" y="467" width="262" height="137" />
+    <object className="car" x="442" y="463" width="78" height="62" />
+    <object className="sign" x="605" y="395" width="29" height="24" />
+    <object className="sign" x="606" y="419" width="28" height="26" />
+    <object className="sign" x="410" y="412" width="25" height="22" />
+  </file>
+  <file path="180115_124459_00050.png" tags="" viewed="1">
+    <object className="car" x="414" y="463" width="100" height="82" />
+    <object className="car" x="590" y="453" width="76" height="31" />
+    <object className="car" x="1058" y="452" width="218" height="201" />
+    <object className="bus" x="508" y="449" width="86" height="40" />
+    <object className="sign" x="392" y="402" width="26" height="25" />
+    <object className="sign" x="608" y="410" width="28" height="25" />
+    <object className="sign" x="606" y="384" width="32" height="23" />
+  </file>
+  <file path="180115_124459_00060.png" tags="" viewed="1">
+    <object className="car" x="334" y="457" width="152" height="129" />
+    <object className="bus" x="644" y="436" width="93" height="45" />
+    <object className="sign" x="613" y="368" width="33" height="27" />
+    <object className="sign" x="374" y="386" width="32" height="29" />
+    <object className="sign" x="612" y="395" width="32" height="31" />
+  </file>
+  <file path="180115_124459_00070.png" tags="" viewed="1">
+    <object className="person" x="444" y="451" width="20" height="42" />
+    <object className="car" x="396" y="446" width="57" height="52" />
+    <object className="car" x="12" y="456" width="390" height="275" />
+    <object className="sign" x="617" y="386" width="40" height="39" />
+    <object className="sign" x="620" y="352" width="34" height="31" />
+    <object className="sign" x="354" y="378" width="28" height="30" />
+    <object className="trafficlight" x="826" y="387" width="22" height="37" />
+  </file>
+  <file path="180115_124459_00080.png" tags="" viewed="1">
+    <object className="person" x="449" y="454" width="24" height="47" />
+    <object className="car" x="325" y="456" width="78" height="48" />
+    <object className="car" x="393" y="453" width="62" height="50" />
+    <object className="sign" x="333" y="368" width="42" height="39" />
+    <object className="sign" x="637" y="334" width="40" height="42" />
+    <object className="sign" x="637" y="378" width="41" height="39" />
+  </file>
+  <file path="180115_124540_00000.png" tags="" viewed="1">
+    <object className="person" x="163" y="492" width="19" height="39" />
+    <object className="person" x="129" y="494" width="23" height="39" />
+    <object className="person" x="290" y="469" width="34" height="72" />
+    <object className="person" x="181" y="496" width="30" height="39" />
+    <object className="car" x="544" y="436" width="214" height="178" />
+    <object className="sign" x="814" y="349" width="53" height="20" />
+    <object className="sign" x="764" y="293" width="37" height="30" />
+    <object className="sign" x="762" y="328" width="36" height="33" />
+    <object className="trafficlight" x="769" y="363" width="28" height="58" />
+  </file>
+  <file path="180115_124540_00010.png" tags="" viewed="1">
+    <object className="person" x="165" y="496" width="23" height="36" />
+    <object className="person" x="106" y="491" width="19" height="43" />
+    <object className="person" x="129" y="489" width="28" height="46" />
+    <object className="person" x="280" y="471" width="40" height="78" />
+    <object className="car" x="528" y="431" width="258" height="225" />
+    <object className="sign" x="766" y="278" width="45" height="33" />
+    <object className="sign" x="828" y="342" width="57" height="18" />
+    <object className="sign" x="769" y="318" width="44" height="36" />
+    <object className="trafficlight" x="778" y="355" width="30" height="66" />
+  </file>
+  <file path="180115_124540_00020.png" tags="" viewed="1">
+    <object className="person" x="274" y="479" width="34" height="74" />
+    <object className="person" x="69" y="496" width="28" height="41" />
+    <object className="person" x="100" y="496" width="27" height="46" />
+    <object className="person" x="135" y="497" width="30" height="43" />
+    <object className="car" x="502" y="425" width="290" height="265" />
+    <object className="sign" x="770" y="310" width="49" height="38" />
+    <object className="sign" x="834" y="333" width="64" height="21" />
+    <object className="sign" x="770" y="268" width="44" height="36" />
+    <object className="trafficlight" x="780" y="352" width="32" height="65" />
+  </file>
+  <file path="180115_124540_00030.png" tags="" viewed="1">
+    <object className="person" x="44" y="499" width="25" height="39" />
+    <object className="person" x="266" y="479" width="41" height="70" />
+    <object className="person" x="73" y="501" width="28" height="41" />
+    <object className="person" x="115" y="496" width="27" height="46" />
+    <object className="car" x="470" y="428" width="334" height="286" />
+    <object className="sign" x="772" y="258" width="50" height="40" />
+    <object className="sign" x="772" y="300" width="53" height="41" />
+    <object className="sign" x="836" y="327" width="68" height="20" />
+    <object className="trafficlight" x="782" y="346" width="33" height="67" />
+  </file>
+  <file path="180115_124540_00040.png" tags="" viewed="1">
+    <object className="person" x="262" y="485" width="36" height="72" />
+    <object className="person" x="23" y="502" width="19" height="41" />
+    <object className="person" x="50" y="504" width="25" height="41" />
+    <object className="person" x="96" y="504" width="23" height="41" />
+    <object className="car" x="444" y="420" width="377" height="320" />
+    <object className="sign" x="778" y="301" width="44" height="42" />
+    <object className="sign" x="840" y="323" width="70" height="24" />
+    <object className="sign" x="778" y="254" width="44" height="42" />
+    <object className="trafficlight" x="782" y="344" width="37" height="69" />
+  </file>
+  <file path="180115_124540_00050.png" tags="" viewed="1">
+    <object className="person" x="30" y="506" width="30" height="43" />
+    <object className="person" x="261" y="487" width="38" height="76" />
+    <object className="person" x="5" y="507" width="21" height="36" />
+    <object className="person" x="75" y="502" width="36" height="46" />
+    <object className="car" x="417" y="420" width="421" height="349" />
+    <object className="sign" x="774" y="253" width="50" height="37" />
+    <object className="sign" x="777" y="296" width="52" height="44" />
+    <object className="sign" x="844" y="320" width="73" height="23" />
+    <object className="trafficlight" x="784" y="345" width="37" height="67" />
+  </file>
+  <file path="180115_124540_00060.png" tags="" viewed="1">
+    <object className="person" x="11" y="502" width="30" height="49" />
+    <object className="person" x="264" y="488" width="37" height="75" />
+    <object className="person" x="59" y="506" width="34" height="43" />
+    <object className="person" x="387" y="499" width="28" height="46" />
+    <object className="car" x="414" y="418" width="424" height="351" />
+    <object className="sign" x="774" y="249" width="54" height="42" />
+    <object className="sign" x="846" y="318" width="77" height="27" />
+    <object className="sign" x="777" y="297" width="50" height="43" />
+    <object className="trafficlight" x="785" y="345" width="37" height="70" />
+  </file>
+  <file path="180115_124540_00070.png" tags="" viewed="1">
+    <object className="person" x="0" y="502" width="15" height="49" />
+    <object className="person" x="48" y="507" width="30" height="46" />
+    <object className="person" x="265" y="492" width="40" height="73" />
+    <object className="person" x="370" y="501" width="32" height="51" />
+    <object className="car" x="414" y="422" width="424" height="363" />
+    <object className="sign" x="777" y="251" width="52" height="40" />
+    <object className="sign" x="776" y="295" width="53" height="43" />
+    <object className="sign" x="848" y="318" width="73" height="24" />
+    <object className="trafficlight" x="786" y="344" width="37" height="72" />
+  </file>
+  <file path="180115_124540_00080.png" tags="" viewed="1">
+    <object className="person" x="349" y="497" width="36" height="51" />
+    <object className="person" x="40" y="501" width="25" height="48" />
+    <object className="person" x="269" y="494" width="40" height="73" />
+    <object className="car" x="408" y="423" width="436" height="371" />
+    <object className="sign" x="848" y="319" width="72" height="24" />
+    <object className="sign" x="776" y="295" width="52" height="45" />
+    <object className="sign" x="778" y="248" width="45" height="43" />
+    <object className="trafficlight" x="786" y="344" width="40" height="70" />
+  </file>
+  <file path="180115_124604_00000.png" tags="" viewed="1">
+    <object className="car" x="493" y="494" width="55" height="48" />
+    <object className="car" x="594" y="480" width="129" height="66" />
+    <object className="car" x="5" y="471" width="258" height="179" />
+    <object className="car" x="1065" y="442" width="213" height="229" />
+    <object className="sign" x="855" y="252" width="57" height="64" />
+    <object className="trafficlight" x="243" y="292" width="28" height="83" />
+  </file>
+  <file path="180115_124604_00010.png" tags="" viewed="1">
+    <object className="car" x="829" y="428" width="265" height="139" />
+    <object className="car" x="1090" y="423" width="188" height="215" />
+    <object className="car" x="316" y="497" width="63" height="46" />
+    <object className="car" x="422" y="476" width="139" height="71" />
+    <object className="sign" x="702" y="216" width="59" height="79" />
+  </file>
+  <file path="180115_124604_00020.png" tags="" viewed="1">
+    <object className="car" x="445" y="421" width="352" height="174" />
+    <object className="car" x="100" y="495" width="78" height="59" />
+    <object className="car" x="220" y="475" width="145" height="75" />
+    <object className="car" x="1082" y="419" width="196" height="200" />
+    <object className="car" x="53" y="476" width="67" height="44" />
+    <object className="sign" x="501" y="182" width="67" height="84" />
+  </file>
+  <file path="180115_124604_00030.png" tags="" viewed="1">
+    <object className="person" x="530" y="476" width="45" height="65" />
+    <object className="car" x="1061" y="409" width="217" height="203" />
+    <object className="car" x="0" y="424" width="386" height="278" />
+    <object className="sign" x="265" y="135" width="79" height="98" />
+  </file>
+  <file path="180115_124709_00000.png" tags="" viewed="1">
+    <object className="car" x="577" y="462" width="32" height="24" />
+    <object className="car" x="622" y="452" width="61" height="50" />
+    <object className="car" x="3" y="491" width="201" height="126" />
+    <object className="car" x="153" y="480" width="151" height="95" />
+    <object className="car" x="978" y="420" width="298" height="169" />
+    <object className="truck" x="258" y="409" width="140" height="129" />
+    <object className="truck" x="900" y="380" width="315" height="191" />
+    <object className="sign" x="548" y="434" width="16" height="17" />
+    <object className="sign" x="718" y="428" width="21" height="19" />
+    <object className="sign" x="710" y="414" width="22" height="18" />
+  </file>
+  <file path="180115_124709_00010.png" tags="" viewed="1">
+    <object className="car" x="624" y="449" width="56" height="48" />
+    <object className="car" x="573" y="458" width="37" height="27" />
+    <object className="car" x="53" y="478" width="179" height="118" />
+    <object className="car" x="312" y="461" width="95" height="77" />
+    <object className="car" x="1100" y="411" width="176" height="218" />
+    <object className="truck" x="167" y="388" width="192" height="166" />
+    <object className="truck" x="964" y="349" width="312" height="219" />
+    <object className="sign" x="542" y="431" width="17" height="15" />
+    <object className="sign" x="714" y="409" width="22" height="17" />
+    <object className="sign" x="720" y="421" width="21" height="19" />
+  </file>
+  <file path="180115_124709_00020.png" tags="" viewed="1">
+    <object className="car" x="253" y="475" width="178" height="70" />
+    <object className="car" x="824" y="454" width="236" height="92" />
+    <object className="car" x="927" y="432" width="315" height="137" />
+    <object className="car" x="250" y="479" width="117" height="84" />
+    <object className="car" x="570" y="470" width="33" height="27" />
+    <object className="car" x="0" y="502" width="123" height="121" />
+    <object className="car" x="625" y="464" width="57" height="45" />
+    <object className="truck" x="1078" y="343" width="198" height="262" />
+    <object className="truck" x="70" y="395" width="239" height="201" />
+    <object className="sign" x="725" y="434" width="20" height="18" />
+    <object className="sign" x="536" y="438" width="20" height="19" />
+    <object className="sign" x="720" y="419" width="22" height="16" />
+  </file>
+  <file path="180115_124709_00030.png" tags="" viewed="1">
+    <object className="car" x="1016" y="435" width="261" height="175" />
+    <object className="car" x="568" y="475" width="34" height="26" />
+    <object className="car" x="187" y="491" width="129" height="88" />
+    <object className="car" x="853" y="458" width="275" height="107" />
+    <object className="car" x="628" y="469" width="58" height="43" />
+    <object className="car" x="186" y="483" width="206" height="73" />
+    <object className="car" x="1168" y="452" width="109" height="205" />
+    <object className="truck" x="5" y="390" width="223" height="220" />
+    <object className="sign" x="529" y="443" width="20" height="18" />
+    <object className="sign" x="726" y="435" width="25" height="23" />
+    <object className="sign" x="722" y="419" width="29" height="17" />
+  </file>
+  <file path="180115_124709_00040.png" tags="" viewed="1">
+    <object className="car" x="562" y="474" width="34" height="26" />
+    <object className="car" x="65" y="482" width="187" height="118" />
+    <object className="car" x="630" y="468" width="54" height="42" />
+    <object className="car" x="87" y="480" width="256" height="96" />
+    <object className="car" x="326" y="478" width="129" height="56" />
+    <object className="car" x="907" y="461" width="348" height="126" />
+    <object className="sign" x="519" y="437" width="29" height="25" />
+    <object className="sign" x="728" y="414" width="29" height="22" />
+    <object className="sign" x="730" y="434" width="26" height="21" />
+  </file>
+  <file path="180115_124709_00050.png" tags="" viewed="1">
+    <object className="car" x="637" y="468" width="56" height="40" />
+    <object className="car" x="5" y="497" width="140" height="131" />
+    <object className="car" x="297" y="479" width="138" height="61" />
+    <object className="car" x="614" y="470" width="28" height="20" />
+    <object className="car" x="135" y="477" width="140" height="114" />
+    <object className="car" x="561" y="473" width="37" height="29" />
+    <object className="car" x="1001" y="458" width="273" height="169" />
+    <object className="sign" x="558" y="454" width="17" height="15" />
+    <object className="sign" x="517" y="433" width="23" height="23" />
+    <object className="sign" x="718" y="433" width="18" height="19" />
+    <object className="sign" x="745" y="431" width="24" height="20" />
+    <object className="sign" x="737" y="406" width="30" height="25" />
+  </file>
+  <file path="180115_124709_00060.png" tags="" viewed="1">
+    <object className="person" x="1140" y="449" width="28" height="54" />
+    <object className="car" x="9" y="484" width="171" height="139" />
+    <object className="car" x="648" y="465" width="56" height="41" />
+    <object className="car" x="565" y="469" width="41" height="30" />
+    <object className="car" x="268" y="481" width="154" height="54" />
+    <object className="car" x="624" y="466" width="30" height="22" />
+    <object className="sign" x="758" y="422" width="28" height="22" />
+    <object className="sign" x="517" y="431" width="21" height="21" />
+    <object className="sign" x="565" y="451" width="17" height="16" />
+    <object className="sign" x="734" y="427" width="18" height="17" />
+    <object className="sign" x="756" y="396" width="32" height="30" />
+  </file>
+  <file path="180115_124709_00070.png" tags="" viewed="1">
+    <object className="person" x="1194" y="451" width="36" height="71" />
+    <object className="car" x="648" y="464" width="52" height="45" />
+    <object className="car" x="284" y="474" width="159" height="59" />
+    <object className="car" x="216" y="477" width="165" height="63" />
+    <object className="car" x="618" y="466" width="32" height="29" />
+    <object className="car" x="558" y="471" width="37" height="33" />
+    <object className="sign" x="505" y="428" width="22" height="25" />
+    <object className="sign" x="768" y="421" width="28" height="23" />
+    <object className="sign" x="557" y="452" width="18" height="16" />
+    <object className="sign" x="734" y="427" width="21" height="21" />
+    <object className="sign" x="764" y="392" width="34" height="33" />
+  </file>
+  <file path="180115_124709_00080.png" tags="" viewed="1">
+    <object className="person" x="698" y="463" width="16" height="22" />
+    <object className="car" x="642" y="459" width="50" height="41" />
+    <object className="car" x="142" y="481" width="196" height="68" />
+    <object className="car" x="609" y="461" width="36" height="27" />
+    <object className="car" x="545" y="468" width="42" height="33" />
+    <object className="car" x="215" y="467" width="184" height="67" />
+    <object className="sign" x="773" y="378" width="33" height="30" />
+    <object className="sign" x="721" y="437" width="18" height="18" />
+    <object className="sign" x="483" y="417" width="32" height="30" />
+    <object className="sign" x="548" y="444" width="18" height="17" />
+    <object className="sign" x="772" y="408" width="33" height="27" />
+    <object className="sign" x="737" y="418" width="20" height="16" />
+  </file>
+  <file path="180115_124709_00090.png" tags="" viewed="1">
+    <object className="person" x="688" y="470" width="16" height="29" />
+    <object className="car" x="530" y="474" width="46" height="37" />
+    <object className="car" x="148" y="485" width="203" height="77" />
+    <object className="car" x="638" y="468" width="52" height="40" />
+    <object className="car" x="600" y="470" width="34" height="27" />
+    <object className="car" x="38" y="487" width="233" height="84" />
+    <object className="sign" x="772" y="365" width="50" height="46" />
+    <object className="sign" x="536" y="454" width="23" height="17" />
+    <object className="sign" x="784" y="408" width="32" height="25" />
+    <object className="sign" x="716" y="442" width="22" height="17" />
+    <object className="sign" x="734" y="421" width="24" height="19" />
+    <object className="sign" x="458" y="425" width="42" height="30" />
+  </file>
+  <file path="180115_124709_00100.png" tags="" viewed="1">
+    <object className="car" x="636" y="466" width="48" height="41" />
+    <object className="car" x="27" y="489" width="163" height="99" />
+    <object className="car" x="758" y="466" width="115" height="48" />
+    <object className="car" x="513" y="473" width="50" height="41" />
+    <object className="car" x="51" y="489" width="228" height="82" />
+    <object className="car" x="592" y="468" width="37" height="32" />
+    <object className="sign" x="718" y="427" width="20" height="17" />
+    <object className="sign" x="720" y="440" width="22" height="20" />
+    <object className="sign" x="526" y="449" width="21" height="18" />
+    <object className="sign" x="800" y="394" width="37" height="37" />
+    <object className="sign" x="437" y="417" width="33" height="30" />
+    <object className="sign" x="740" y="416" width="25" height="20" />
+    <object className="sign" x="798" y="357" width="40" height="37" />
+    <object className="sign" x="786" y="404" width="33" height="29" />
+  </file>
+  <file path="180115_124709_00110.png" tags="" viewed="1">
+    <object className="car" x="501" y="469" width="56" height="43" />
+    <object className="car" x="0" y="486" width="189" height="112" />
+    <object className="car" x="136" y="469" width="190" height="88" />
+    <object className="car" x="633" y="463" width="53" height="43" />
+    <object className="car" x="764" y="467" width="120" height="47" />
+    <object className="car" x="582" y="465" width="46" height="34" />
+    <object className="sign" x="801" y="391" width="36" height="34" />
+    <object className="sign" x="748" y="409" width="24" height="21" />
+    <object className="sign" x="822" y="331" width="48" height="46" />
+    <object className="sign" x="829" y="381" width="42" height="39" />
+    <object className="sign" x="721" y="437" width="24" height="17" />
+    <object className="sign" x="414" y="409" width="32" height="30" />
+    <object className="sign" x="517" y="446" width="22" height="18" />
+    <object className="sign" x="721" y="420" width="22" height="20" />
+  </file>
+  <file path="180115_124709_00120.png" tags="" viewed="1">
+    <object className="car" x="775" y="463" width="140" height="53" />
+    <object className="car" x="580" y="466" width="45" height="42" />
+    <object className="car" x="14" y="470" width="245" height="109" />
+    <object className="car" x="637" y="462" width="52" height="41" />
+    <object className="car" x="488" y="472" width="58" height="41" />
+    <object className="sign" x="866" y="354" width="56" height="49" />
+    <object className="sign" x="382" y="400" width="38" height="35" />
+    <object className="sign" x="822" y="377" width="50" height="45" />
+    <object className="sign" x="716" y="417" width="20" height="18" />
+    <object className="sign" x="513" y="444" width="18" height="20" />
+    <object className="sign" x="729" y="414" width="22" height="21" />
+    <object className="sign" x="729" y="431" width="24" height="23" />
+    <object className="sign" x="761" y="399" width="25" height="26" />
+    <object className="sign" x="856" y="287" width="71" height="69" />
+  </file>
+  <file path="180115_124709_00130.png" tags="" viewed="1">
+    <object className="car" x="468" y="469" width="65" height="48" />
+    <object className="car" x="564" y="463" width="53" height="42" />
+    <object className="car" x="140" y="473" width="192" height="83" />
+    <object className="car" x="9" y="471" width="160" height="126" />
+    <object className="car" x="796" y="458" width="158" height="64" />
+    <object className="car" x="636" y="459" width="56" height="44" />
+    <object className="sign" x="504" y="442" width="18" height="18" />
+    <object className="sign" x="732" y="408" width="24" height="22" />
+    <object className="sign" x="917" y="227" width="92" height="91" />
+    <object className="sign" x="850" y="355" width="56" height="56" />
+    <object className="sign" x="716" y="412" width="24" height="19" />
+    <object className="sign" x="346" y="388" width="38" height="42" />
+    <object className="sign" x="929" y="316" width="73" height="60" />
+    <object className="sign" x="729" y="427" width="29" height="22" />
+    <object className="sign" x="772" y="386" width="30" height="32" />
+  </file>
+  <file path="180115_124709_00140.png" tags="" viewed="1">
+    <object className="car" x="633" y="445" width="58" height="45" />
+    <object className="car" x="1" y="454" width="176" height="135" />
+    <object className="car" x="35" y="454" width="233" height="115" />
+    <object className="car" x="816" y="451" width="167" height="58" />
+    <object className="car" x="440" y="456" width="77" height="59" />
+    <object className="car" x="550" y="449" width="60" height="46" />
+    <object className="car" x="186" y="448" width="175" height="78" />
+    <object className="sign" x="734" y="410" width="32" height="24" />
+    <object className="sign" x="734" y="392" width="28" height="22" />
+    <object className="sign" x="1038" y="82" width="140" height="139" />
+    <object className="sign" x="488" y="425" width="24" height="21" />
+    <object className="sign" x="1061" y="218" width="110" height="103" />
+    <object className="sign" x="285" y="364" width="52" height="47" />
+    <object className="sign" x="788" y="360" width="33" height="35" />
+    <object className="sign" x="893" y="316" width="61" height="59" />
+    <object className="sign" x="717" y="396" width="24" height="22" />
+  </file>
+  <file path="180115_124709_00150.png" tags="" viewed="1">
+    <object className="person" x="612" y="468" width="16" height="35" />
+    <object className="car" x="837" y="468" width="210" height="64" />
+    <object className="car" x="28" y="462" width="229" height="106" />
+    <object className="car" x="136" y="468" width="179" height="90" />
+    <object className="car" x="536" y="467" width="65" height="59" />
+    <object className="car" x="408" y="473" width="90" height="61" />
+    <object className="car" x="0" y="482" width="154" height="121" />
+    <object className="car" x="633" y="462" width="56" height="44" />
+    <object className="sign" x="741" y="403" width="29" height="23" />
+    <object className="sign" x="722" y="409" width="22" height="19" />
+    <object className="sign" x="744" y="422" width="28" height="24" />
+    <object className="sign" x="478" y="443" width="22" height="18" />
+    <object className="sign" x="952" y="290" width="90" height="85" />
+    <object className="sign" x="216" y="367" width="46" height="48" />
+    <object className="sign" x="808" y="363" width="37" height="34" />
+  </file>
+  <file path="180115_124709_00160.png" tags="" viewed="1">
+    <object className="person" x="589" y="462" width="20" height="33" />
+    <object className="person" x="294" y="462" width="28" height="50" />
+    <object className="car" x="628" y="452" width="61" height="48" />
+    <object className="car" x="3" y="459" width="154" height="119" />
+    <object className="car" x="870" y="456" width="254" height="74" />
+    <object className="car" x="364" y="465" width="102" height="69" />
+    <object className="car" x="35" y="454" width="207" height="109" />
+    <object className="car" x="497" y="456" width="89" height="72" />
+    <object className="sign" x="752" y="385" width="25" height="23" />
+    <object className="sign" x="748" y="406" width="36" height="31" />
+    <object className="sign" x="1075" y="206" width="126" height="118" />
+    <object className="sign" x="754" y="434" width="22" height="10" />
+    <object className="sign" x="460" y="430" width="26" height="22" />
+    <object className="sign" x="836" y="323" width="53" height="52" />
+    <object className="sign" x="725" y="392" width="28" height="21" />
+    <object className="sign" x="101" y="330" width="67" height="67" />
+  </file>
+  <file path="180115_124709_00170.png" tags="" viewed="1">
+    <object className="person" x="252" y="459" width="28" height="44" />
+    <object className="person" x="565" y="447" width="24" height="40" />
+    <object className="person" x="171" y="449" width="23" height="56" />
+    <object className="car" x="918" y="444" width="316" height="107" />
+    <object className="car" x="426" y="444" width="126" height="98" />
+    <object className="car" x="302" y="457" width="125" height="81" />
+    <object className="car" x="5" y="449" width="127" height="114" />
+    <object className="car" x="625" y="442" width="61" height="47" />
+    <object className="sign" x="761" y="390" width="28" height="27" />
+    <object className="sign" x="734" y="404" width="22" height="25" />
+    <object className="sign" x="728" y="376" width="32" height="26" />
+    <object className="sign" x="442" y="420" width="28" height="22" />
+    <object className="sign" x="761" y="419" width="24" height="13" />
+    <object className="sign" x="886" y="273" width="60" height="54" />
+    <object className="sign" x="760" y="365" width="28" height="25" />
+  </file>
+  <file path="180115_124709_00180.png" tags="" viewed="1">
+    <object className="person" x="217" y="486" width="34" height="56" />
+    <object className="person" x="544" y="477" width="22" height="49" />
+    <object className="car" x="626" y="468" width="64" height="60" />
+    <object className="car" x="1024" y="474" width="252" height="152" />
+    <object className="car" x="228" y="468" width="250" height="183" />
+    <object className="sign" x="745" y="429" width="33" height="34" />
+    <object className="sign" x="745" y="400" width="32" height="27" />
+    <object className="sign" x="778" y="449" width="28" height="11" />
+    <object className="sign" x="989" y="228" width="86" height="88" />
+    <object className="sign" x="776" y="386" width="36" height="30" />
+    <object className="sign" x="428" y="446" width="29" height="25" />
+    <object className="sign" x="777" y="412" width="36" height="36" />
+  </file>
+  <file path="180115_124709_00190.png" tags="" viewed="1">
+    <object className="person" x="52" y="464" width="40" height="74" />
+    <object className="person" x="516" y="466" width="29" height="52" />
+    <object className="car" x="93" y="477" width="224" height="127" />
+    <object className="car" x="1039" y="482" width="237" height="170" />
+    <object className="car" x="600" y="470" width="35" height="29" />
+    <object className="car" x="628" y="454" width="72" height="64" />
+    <object className="sign" x="765" y="412" width="26" height="32" />
+    <object className="sign" x="801" y="430" width="32" height="17" />
+    <object className="sign" x="798" y="359" width="41" height="34" />
+    <object className="sign" x="798" y="391" width="44" height="40" />
+    <object className="sign" x="760" y="379" width="30" height="31" />
+    <object className="sign" x="410" y="430" width="30" height="30" />
+  </file>
+  <file path="180115_124709_00200.png" tags="" viewed="1">
+    <object className="person" x="482" y="457" width="28" height="53" />
+    <object className="car" x="633" y="446" width="68" height="58" />
+    <object className="car" x="1066" y="445" width="211" height="169" />
+    <object className="car" x="593" y="457" width="41" height="34" />
+    <object className="car" x="4" y="468" width="193" height="185" />
+    <object className="sign" x="826" y="366" width="50" height="47" />
+    <object className="sign" x="776" y="393" width="42" height="36" />
+    <object className="sign" x="826" y="412" width="42" height="20" />
+    <object className="sign" x="826" y="327" width="46" height="41" />
+    <object className="sign" x="774" y="356" width="36" height="31" />
+    <object className="sign" x="385" y="413" width="33" height="29" />
+  </file>
+  <file path="180115_124709_00210.png" tags="" viewed="1">
+    <object className="person" x="25" y="464" width="30" height="84" />
+    <object className="person" x="436" y="462" width="34" height="64" />
+    <object className="car" x="630" y="452" width="73" height="62" />
+    <object className="car" x="586" y="463" width="46" height="39" />
+    <object className="sign" x="354" y="416" width="36" height="36" />
+    <object className="sign" x="790" y="349" width="45" height="34" />
+    <object className="sign" x="858" y="354" width="68" height="64" />
+    <object className="sign" x="865" y="411" width="46" height="23" />
+    <object className="sign" x="794" y="390" width="42" height="41" />
+    <object className="sign" x="864" y="303" width="54" height="52" />
+  </file>
+  <file path="180115_124709_00220.png" tags="" viewed="1">
+    <object className="person" x="373" y="459" width="38" height="72" />
+    <object className="person" x="1105" y="442" width="29" height="56" />
+    <object className="car" x="574" y="460" width="48" height="37" />
+    <object className="car" x="621" y="446" width="86" height="68" />
+    <object className="sign" x="917" y="392" width="62" height="25" />
+    <object className="sign" x="916" y="254" width="65" height="62" />
+    <object className="sign" x="910" y="313" width="78" height="81" />
+    <object className="sign" x="309" y="405" width="38" height="33" />
+    <object className="sign" x="814" y="321" width="44" height="38" />
+    <object className="sign" x="814" y="372" width="52" height="45" />
+  </file>
+  <file path="180115_124709_00230.png" tags="" viewed="1">
+    <object className="person" x="294" y="461" width="40" height="77" />
+    <object className="car" x="621" y="451" width="78" height="67" />
+    <object className="car" x="561" y="464" width="53" height="45" />
+    <object className="sign" x="257" y="404" width="42" height="36" />
+    <object className="sign" x="1004" y="370" width="80" height="34" />
+    <object className="sign" x="988" y="259" width="114" height="110" />
+    <object className="sign" x="998" y="184" width="94" height="78" />
+    <object className="sign" x="842" y="354" width="54" height="57" />
+    <object className="sign" x="837" y="292" width="64" height="48" />
+  </file>
+  <file path="180115_124709_00240.png" tags="" viewed="1">
+    <object className="car" x="546" y="458" width="56" height="46" />
+    <object className="car" x="616" y="447" width="77" height="69" />
+    <object className="sign" x="842" y="353" width="56" height="55" />
+    <object className="sign" x="1155" y="140" width="121" height="172" />
+    <object className="sign" x="195" y="381" width="51" height="58" />
+    <object className="sign" x="1165" y="18" width="113" height="126" />
+    <object className="sign" x="1177" y="311" width="101" height="57" />
+    <object className="sign" x="882" y="321" width="74" height="66" />
+    <object className="sign" x="877" y="241" width="76" height="65" />
+  </file>
+  <file path="180115_124709_00250.png" tags="" viewed="1">
+    <object className="person" x="61" y="459" width="48" height="107" />
+    <object className="car" x="533" y="461" width="61" height="52" />
+    <object className="car" x="608" y="450" width="88" height="73" />
+    <object className="sign" x="882" y="337" width="64" height="60" />
+    <object className="sign" x="107" y="373" width="67" height="64" />
+    <object className="sign" x="956" y="288" width="97" height="79" />
+    <object className="sign" x="949" y="177" width="93" height="81" />
+  </file>
+  <file path="180115_124709_00260.png" tags="" viewed="1">
+    <object className="car" x="610" y="456" width="89" height="76" />
+    <object className="car" x="520" y="467" width="70" height="61" />
+    <object className="sign" x="1077" y="210" width="134" height="119" />
+    <object className="sign" x="7" y="364" width="76" height="72" />
+    <object className="sign" x="1069" y="58" width="140" height="124" />
+    <object className="sign" x="936" y="315" width="78" height="77" />
+  </file>
+  <file path="180115_124709_00270.png" tags="" viewed="1">
+    <object className="person" x="308" y="478" width="23" height="36" />
+    <object className="person" x="295" y="474" width="20" height="40" />
+    <object className="person" x="985" y="441" width="25" height="57" />
+    <object className="car" x="614" y="458" width="94" height="73" />
+    <object className="car" x="514" y="472" width="85" height="64" />
+    <object className="sign" x="1007" y="263" width="118" height="109" />
+  </file>
+  <file path="180115_124709_00280.png" tags="" viewed="1">
+    <object className="person" x="270" y="476" width="14" height="41" />
+    <object className="person" x="278" y="479" width="23" height="40" />
+    <object className="person" x="1005" y="445" width="32" height="59" />
+    <object className="car" x="618" y="459" width="86" height="71" />
+    <object className="car" x="501" y="473" width="118" height="75" />
+    <object className="sign" x="1144" y="188" width="132" height="162" />
+  </file>
+  <file path="180115_124709_00290.png" tags="" viewed="1">
+    <object className="person" x="237" y="477" width="15" height="43" />
+    <object className="person" x="1032" y="446" width="30" height="58" />
+    <object className="person" x="248" y="479" width="21" height="38" />
+    <object className="car" x="625" y="458" width="86" height="72" />
+    <object className="car" x="505" y="470" width="165" height="84" />
+    <object className="sign" x="737" y="427" width="24" height="18" />
+    <object className="sign" x="738" y="407" width="24" height="21" />
+  </file>
+  <file path="180115_124709_00300.png" tags="" viewed="1">
+    <object className="person" x="1064" y="466" width="30" height="58" />
+    <object className="person" x="198" y="499" width="19" height="41" />
+    <object className="person" x="216" y="496" width="21" height="49" />
+    <object className="car" x="533" y="485" width="241" height="119" />
+    <object className="car" x="456" y="479" width="97" height="80" />
+    <object className="sign" x="745" y="442" width="22" height="21" />
+    <object className="sign" x="745" y="423" width="24" height="22" />
+  </file>
+  <file path="180115_124709_00310.png" tags="" viewed="1">
+    <object className="person" x="154" y="497" width="28" height="49" />
+    <object className="person" x="1103" y="464" width="27" height="64" />
+    <object className="person" x="175" y="501" width="23" height="44" />
+    <object className="car" x="614" y="487" width="345" height="145" />
+    <object className="car" x="561" y="485" width="56" height="46" />
+    <object className="car" x="417" y="478" width="121" height="94" />
+    <object className="sign" x="756" y="441" width="24" height="16" />
+    <object className="sign" x="760" y="460" width="18" height="11" />
+    <object className="sign" x="756" y="420" width="22" height="17" />
+  </file>
+  <file path="180115_124709_00320.png" tags="" viewed="1">
+    <object className="person" x="1134" y="443" width="40" height="76" />
+    <object className="person" x="102" y="476" width="17" height="59" />
+    <object className="person" x="119" y="479" width="23" height="58" />
+    <object className="car" x="774" y="461" width="502" height="203" />
+    <object className="car" x="632" y="458" width="86" height="69" />
+    <object className="car" x="341" y="457" width="160" height="123" />
+    <object className="car" x="544" y="465" width="69" height="50" />
+    <object className="sign" x="758" y="418" width="24" height="19" />
+    <object className="sign" x="762" y="397" width="24" height="20" />
+    <object className="sign" x="761" y="437" width="22" height="13" />
+  </file>
+  <file path="180115_124709_00330.png" tags="" viewed="1">
+    <object className="person" x="1176" y="439" width="36" height="84" />
+    <object className="person" x="32" y="474" width="21" height="69" />
+    <object className="person" x="50" y="474" width="30" height="63" />
+    <object className="car" x="529" y="464" width="69" height="59" />
+    <object className="car" x="630" y="453" width="84" height="78" />
+    <object className="car" x="210" y="448" width="236" height="173" />
+    <object className="sign" x="764" y="391" width="25" height="20" />
+    <object className="sign" x="764" y="411" width="25" height="23" />
+    <object className="sign" x="762" y="435" width="22" height="13" />
+    <object className="sign" x="744" y="415" width="17" height="19" />
+  </file>
+  <file path="180115_124709_00340.png" tags="" viewed="1">
+    <object className="person" x="1225" y="419" width="28" height="96" />
+    <object className="car" x="508" y="448" width="77" height="62" />
+    <object className="car" x="9" y="429" width="346" height="243" />
+    <object className="car" x="628" y="438" width="85" height="71" />
+    <object className="sign" x="768" y="394" width="24" height="21" />
+    <object className="sign" x="744" y="401" width="20" height="18" />
+    <object className="sign" x="769" y="370" width="24" height="22" />
+    <object className="sign" x="768" y="420" width="24" height="11" />
+  </file>
+  <file path="180115_124709_00350.png" tags="" viewed="1">
+    <object className="car" x="629" y="443" width="85" height="73" />
+    <object className="car" x="480" y="458" width="93" height="68" />
+    <object className="sign" x="774" y="419" width="25" height="13" />
+    <object className="sign" x="776" y="394" width="24" height="24" />
+    <object className="sign" x="541" y="434" width="22" height="18" />
+    <object className="sign" x="744" y="400" width="24" height="21" />
+    <object className="sign" x="732" y="408" width="20" height="20" />
+    <object className="sign" x="773" y="365" width="28" height="30" />
+  </file>
+  <file path="180115_124709_00360.png" tags="" viewed="1">
+    <object className="car" x="438" y="467" width="116" height="81" />
+    <object className="car" x="628" y="453" width="84" height="72" />
+    <object className="sign" x="538" y="443" width="17" height="20" />
+    <object className="sign" x="752" y="407" width="21" height="20" />
+    <object className="sign" x="730" y="418" width="22" height="20" />
+    <object className="sign" x="782" y="401" width="28" height="25" />
+    <object className="sign" x="781" y="427" width="29" height="16" />
+    <object className="sign" x="782" y="372" width="30" height="30" />
+  </file>
+  <file path="180115_124709_00370.png" tags="" viewed="1">
+    <object className="car" x="376" y="478" width="149" height="103" />
+    <object className="car" x="624" y="464" width="85" height="73" />
+    <object className="car" x="783" y="474" width="135" height="51" />
+    <object className="sign" x="737" y="425" width="21" height="21" />
+    <object className="sign" x="792" y="406" width="33" height="29" />
+    <object className="sign" x="530" y="450" width="21" height="21" />
+    <object className="sign" x="792" y="374" width="33" height="33" />
+    <object className="sign" x="756" y="413" width="28" height="25" />
+    <object className="sign" x="790" y="434" width="32" height="18" />
+  </file>
+  <file path="180115_124709_00380.png" tags="" viewed="1">
+    <object className="car" x="248" y="467" width="213" height="145" />
+    <object className="car" x="620" y="454" width="85" height="74" />
+    <object className="car" x="783" y="466" width="152" height="51" />
+    <object className="sign" x="801" y="424" width="34" height="20" />
+    <object className="sign" x="802" y="359" width="37" height="33" />
+    <object className="sign" x="734" y="417" width="22" height="23" />
+    <object className="sign" x="518" y="442" width="22" height="20" />
+    <object className="sign" x="801" y="395" width="33" height="29" />
+    <object className="sign" x="758" y="404" width="29" height="27" />
+  </file>
+  <file path="180115_124709_00390.png" tags="" viewed="1">
+    <object className="car" x="8" y="478" width="324" height="270" />
+    <object className="car" x="613" y="460" width="84" height="74" />
+    <object className="car" x="789" y="472" width="162" height="56" />
+    <object className="sign" x="509" y="445" width="20" height="22" />
+    <object className="sign" x="812" y="347" width="37" height="37" />
+    <object className="sign" x="763" y="400" width="32" height="33" />
+    <object className="sign" x="810" y="423" width="40" height="20" />
+    <object className="sign" x="728" y="418" width="31" height="29" />
+    <object className="sign" x="813" y="389" width="37" height="30" />
+  </file>
+  <file path="180115_124709_00400.png" tags="" viewed="1">
+    <object className="car" x="606" y="451" width="78" height="72" />
+    <object className="car" x="796" y="456" width="169" height="59" />
+    <object className="sign" x="761" y="382" width="36" height="31" />
+    <object className="sign" x="494" y="434" width="24" height="23" />
+    <object className="sign" x="726" y="404" width="26" height="25" />
+    <object className="sign" x="824" y="317" width="42" height="42" />
+    <object className="sign" x="825" y="363" width="41" height="36" />
+    <object className="sign" x="825" y="406" width="38" height="20" />
+  </file>
+  <file path="180115_124709_00410.png" tags="" viewed="1">
+    <object className="car" x="604" y="454" width="84" height="71" />
+    <object className="car" x="804" y="461" width="194" height="61" />
+    <object className="sign" x="730" y="407" width="26" height="23" />
+    <object className="sign" x="482" y="438" width="24" height="21" />
+    <object className="sign" x="846" y="297" width="54" height="48" />
+    <object className="sign" x="850" y="347" width="48" height="44" />
+    <object className="sign" x="773" y="378" width="29" height="31" />
+    <object className="sign" x="849" y="393" width="46" height="29" />
+  </file>
+  <file path="180115_124709_00420.png" tags="" viewed="1">
+    <object className="car" x="601" y="454" width="80" height="75" />
+    <object className="car" x="821" y="464" width="225" height="66" />
+    <object className="sign" x="788" y="365" width="36" height="40" />
+    <object className="sign" x="472" y="439" width="28" height="24" />
+    <object className="sign" x="732" y="403" width="33" height="30" />
+    <object className="sign" x="886" y="257" width="66" height="63" />
+    <object className="sign" x="892" y="323" width="57" height="53" />
+    <object className="sign" x="888" y="383" width="60" height="29" />
+  </file>
+  <file path="180115_124709_00430.png" tags="" viewed="1">
+    <object className="car" x="850" y="459" width="252" height="81" />
+    <object className="car" x="604" y="454" width="74" height="68" />
+    <object className="sign" x="462" y="434" width="25" height="24" />
+    <object className="sign" x="957" y="354" width="76" height="40" />
+    <object className="sign" x="956" y="194" width="80" height="74" />
+    <object className="sign" x="741" y="399" width="32" height="26" />
+    <object className="sign" x="810" y="346" width="40" height="40" />
+    <object className="sign" x="714" y="420" width="22" height="21" />
+    <object className="sign" x="956" y="272" width="81" height="75" />
+  </file>
+  <file path="180115_124709_00440.png" tags="" viewed="1">
+    <object className="car" x="904" y="454" width="279" height="94" />
+    <object className="car" x="604" y="452" width="77" height="67" />
+    <object className="sign" x="1076" y="306" width="113" height="55" />
+    <object className="sign" x="456" y="429" width="25" height="27" />
+    <object className="sign" x="750" y="388" width="39" height="32" />
+    <object className="sign" x="722" y="416" width="22" height="20" />
+    <object className="sign" x="1073" y="191" width="114" height="105" />
+    <object className="sign" x="840" y="322" width="52" height="48" />
+    <object className="sign" x="1077" y="79" width="113" height="103" />
+  </file>
+  <file path="180115_124709_00450.png" tags="" viewed="1">
+    <object className="person" x="295" y="454" width="28" height="56" />
+    <object className="car" x="968" y="459" width="308" height="114" />
+    <object className="car" x="620" y="452" width="72" height="64" />
+    <object className="sign" x="450" y="430" width="30" height="26" />
+    <object className="sign" x="741" y="414" width="21" height="22" />
+    <object className="sign" x="770" y="382" width="37" height="32" />
+    <object className="sign" x="890" y="289" width="61" height="66" />
+  </file>
+  <file path="180115_124918_00000.png" tags="" viewed="1">
+    <object className="car" x="795" y="457" width="118" height="92" />
+    <object className="car" x="841" y="465" width="137" height="102" />
+  </file>
+  <file path="180115_124918_00010.png" tags="" viewed="1">
+    <object className="car" x="892" y="454" width="202" height="141" />
+    <object className="car" x="836" y="456" width="142" height="108" />
+    <object className="bus" x="792" y="414" width="123" height="133" />
+  </file>
+  <file path="180115_124918_00020.png" tags="" viewed="1">
+    <object className="car" x="892" y="455" width="192" height="164" />
+    <object className="car" x="1000" y="463" width="278" height="216" />
+    <object className="bus" x="825" y="410" width="156" height="164" />
+    <object className="sign" x="777" y="414" width="21" height="20" />
+    <object className="sign" x="774" y="397" width="22" height="20" />
+    <object className="sign" x="777" y="430" width="21" height="19" />
+  </file>
+  <file path="180115_124918_00030.png" tags="" viewed="1">
+    <object className="car" x="797" y="468" width="106" height="81" />
+    <object className="car" x="966" y="435" width="311" height="247" />
+    <object className="bus" x="858" y="385" width="234" height="216" />
+    <object className="sign" x="778" y="383" width="26" height="21" />
+    <object className="sign" x="781" y="419" width="24" height="20" />
+    <object className="sign" x="782" y="404" width="22" height="18" />
+  </file>
+  <file path="180115_124918_00040.png" tags="" viewed="1">
+    <object className="car" x="824" y="460" width="148" height="103" />
+    <object className="bus" x="924" y="330" width="353" height="345" />
+    <object className="sign" x="786" y="406" width="28" height="24" />
+    <object className="sign" x="784" y="367" width="29" height="21" />
+    <object className="sign" x="786" y="388" width="26" height="21" />
+  </file>
+  <file path="180115_124918_00050.png" tags="" viewed="1">
+    <object className="person" x="135" y="451" width="27" height="53" />
+    <object className="car" x="869" y="464" width="209" height="153" />
+    <object className="bus" x="1076" y="270" width="192" height="474" />
+    <object className="sign" x="794" y="384" width="25" height="24" />
+    <object className="sign" x="790" y="364" width="29" height="23" />
+    <object className="sign" x="794" y="408" width="26" height="22" />
+  </file>
+  <file path="180115_124918_00060.png" tags="" viewed="1">
+    <object className="car" x="880" y="467" width="203" height="154" />
+    <object className="car" x="957" y="458" width="320" height="256" />
+    <object className="sign" x="808" y="346" width="25" height="30" />
+    <object className="sign" x="805" y="374" width="30" height="27" />
+    <object className="sign" x="806" y="399" width="29" height="26" />
+    <object className="trafficlight" x="706" y="439" width="13" height="14" />
+    <object className="trafficlight" x="654" y="389" width="14" height="20" />
+    <object className="trafficlight" x="584" y="442" width="10" height="19" />
+  </file>
+  <file path="180115_124918_00070.png" tags="" viewed="1">
+    <object className="car" x="974" y="474" width="303" height="226" />
+    <object className="sign" x="825" y="362" width="33" height="31" />
+    <object className="sign" x="824" y="331" width="32" height="29" />
+    <object className="sign" x="828" y="390" width="34" height="30" />
+  </file>
+  <file path="180115_124918_00080.png" tags="" viewed="1">
+    <object className="car" x="977" y="452" width="134" height="59" />
+    <object className="car" x="1109" y="443" width="136" height="79" />
+    <object className="sign" x="856" y="380" width="41" height="37" />
+    <object className="sign" x="854" y="344" width="42" height="38" />
+    <object className="sign" x="853" y="306" width="40" height="38" />
+  </file>
+  <file path="180115_124918_00090.png" tags="" viewed="1">
+    <object className="car" x="1199" y="429" width="78" height="95" />
+    <object className="car" x="1026" y="448" width="146" height="61" />
+    <object className="sign" x="901" y="262" width="50" height="46" />
+    <object className="sign" x="906" y="310" width="52" height="42" />
+    <object className="sign" x="910" y="354" width="46" height="41" />
+    <object className="trafficlight" x="572" y="445" width="16" height="19" />
+    <object className="trafficlight" x="653" y="383" width="12" height="24" />
+    <object className="trafficlight" x="712" y="440" width="12" height="19" />
+  </file>
+  <file path="180115_124918_00100.png" tags="" viewed="1">
+    <object className="car" x="1089" y="454" width="171" height="66" />
+    <object className="sign" x="986" y="260" width="72" height="61" />
+    <object className="sign" x="981" y="201" width="76" height="60" />
+    <object className="sign" x="997" y="320" width="62" height="61" />
+    <object className="trafficlight" x="660" y="382" width="12" height="22" />
+    <object className="trafficlight" x="576" y="451" width="13" height="23" />
+    <object className="trafficlight" x="722" y="441" width="12" height="19" />
+  </file>
+  <file path="180115_124918_00110.png" tags="" viewed="1">
+    <object className="car" x="1169" y="439" width="107" height="75" />
+    <object className="sign" x="1148" y="48" width="102" height="93" />
+    <object className="sign" x="1160" y="146" width="102" height="81" />
+    <object className="sign" x="1166" y="241" width="93" height="80" />
+    <object className="trafficlight" x="662" y="367" width="14" height="22" />
+    <object className="trafficlight" x="581" y="446" width="14" height="21" />
+    <object className="trafficlight" x="732" y="430" width="10" height="24" />
+  </file>
+  <file path="180115_124918_00120.png" tags="" viewed="1">
+    <object className="trafficlight" x="740" y="440" width="12" height="22" />
+    <object className="trafficlight" x="600" y="459" width="12" height="19" />
+    <object className="trafficlight" x="582" y="458" width="12" height="22" />
+    <object className="trafficlight" x="666" y="371" width="16" height="27" />
+  </file>
+  <file path="180115_125108_00000.png" tags="" viewed="1">
+    <object className="car" x="889" y="463" width="256" height="179" />
+    <object className="car" x="844" y="466" width="150" height="122" />
+    <object className="car" x="773" y="476" width="73" height="51" />
+    <object className="car" x="669" y="467" width="49" height="39" />
+    <object className="car" x="711" y="468" width="60" height="45" />
+    <object className="sign" x="777" y="439" width="20" height="16" />
+    <object className="sign" x="774" y="405" width="26" height="21" />
+    <object className="sign" x="776" y="419" width="22" height="20" />
+  </file>
+  <file path="180115_125108_00010.png" tags="" viewed="1">
+    <object className="car" x="785" y="477" width="88" height="69" />
+    <object className="car" x="720" y="475" width="56" height="45" />
+    <object className="car" x="676" y="473" width="46" height="41" />
+    <object className="car" x="1017" y="459" width="261" height="311" />
+    <object className="car" x="903" y="474" width="231" height="171" />
+    <object className="sign" x="784" y="443" width="18" height="18" />
+    <object className="sign" x="781" y="408" width="24" height="19" />
+    <object className="sign" x="781" y="423" width="24" height="25" />
+  </file>
+  <file path="180115_125108_00020.png" tags="" viewed="1">
+    <object className="car" x="721" y="467" width="61" height="54" />
+    <object className="car" x="767" y="464" width="79" height="65" />
+    <object className="car" x="685" y="467" width="45" height="40" />
+    <object className="car" x="802" y="479" width="115" height="71" />
+    <object className="car" x="1020" y="484" width="256" height="242" />
+    <object className="sign" x="760" y="435" width="22" height="18" />
+    <object className="sign" x="790" y="397" width="28" height="20" />
+    <object className="sign" x="793" y="434" width="22" height="22" />
+    <object className="sign" x="793" y="414" width="21" height="24" />
+  </file>
+  <file path="180115_125108_00030.png" tags="" viewed="1">
+    <object className="person" x="55" y="443" width="38" height="66" />
+    <object className="car" x="844" y="489" width="135" height="94" />
+    <object className="car" x="738" y="474" width="71" height="64" />
+    <object className="car" x="789" y="472" width="92" height="78" />
+    <object className="car" x="696" y="474" width="46" height="43" />
+    <object className="sign" x="809" y="416" width="22" height="24" />
+    <object className="sign" x="770" y="438" width="20" height="18" />
+    <object className="sign" x="809" y="399" width="21" height="20" />
+    <object className="sign" x="809" y="437" width="22" height="23" />
+  </file>
+  <file path="180115_125108_00040.png" tags="" viewed="1">
+    <object className="person" x="472" y="450" width="28" height="51" />
+    <object className="car" x="813" y="450" width="116" height="100" />
+    <object className="car" x="703" y="469" width="59" height="41" />
+    <object className="car" x="749" y="467" width="92" height="73" />
+    <object className="car" x="892" y="474" width="206" height="133" />
+    <object className="sign" x="829" y="378" width="24" height="24" />
+    <object className="sign" x="786" y="427" width="21" height="21" />
+    <object className="sign" x="826" y="401" width="29" height="26" />
+    <object className="sign" x="830" y="424" width="24" height="24" />
+  </file>
+  <file path="180115_125108_00050.png" tags="" viewed="1">
+    <object className="person" x="456" y="444" width="26" height="52" />
+    <object className="car" x="994" y="469" width="284" height="207" />
+    <object className="car" x="777" y="466" width="95" height="77" />
+    <object className="car" x="716" y="464" width="53" height="43" />
+    <object className="car" x="856" y="446" width="149" height="119" />
+    <object className="sign" x="856" y="417" width="24" height="22" />
+    <object className="sign" x="853" y="389" width="29" height="30" />
+    <object className="sign" x="854" y="365" width="28" height="27" />
+    <object className="sign" x="796" y="419" width="28" height="23" />
+  </file>
+  <file path="180115_125108_00060.png" tags="" viewed="1">
+    <object className="person" x="428" y="454" width="32" height="58" />
+    <object className="car" x="794" y="476" width="132" height="102" />
+    <object className="car" x="902" y="449" width="212" height="163" />
+    <object className="car" x="721" y="468" width="57" height="47" />
+    <object className="sign" x="880" y="388" width="32" height="33" />
+    <object className="sign" x="882" y="418" width="28" height="29" />
+    <object className="sign" x="882" y="362" width="33" height="30" />
+    <object className="sign" x="813" y="424" width="25" height="25" />
+  </file>
+  <file path="180115_125108_00070.png" tags="" viewed="1">
+    <object className="person" x="391" y="441" width="30" height="64" />
+    <object className="car" x="817" y="460" width="181" height="126" />
+    <object className="car" x="972" y="428" width="306" height="232" />
+    <object className="car" x="722" y="460" width="54" height="46" />
+    <object className="sign" x="908" y="401" width="30" height="30" />
+    <object className="sign" x="905" y="365" width="37" height="37" />
+    <object className="sign" x="822" y="410" width="26" height="25" />
+    <object className="sign" x="774" y="440" width="18" height="16" />
+    <object className="sign" x="821" y="392" width="25" height="22" />
+    <object className="sign" x="909" y="337" width="29" height="29" />
+  </file>
+  <file path="180115_125108_00080.png" tags="" viewed="1">
+    <object className="person" x="345" y="449" width="28" height="63" />
+    <object className="car" x="852" y="470" width="269" height="179" />
+    <object className="car" x="720" y="470" width="56" height="49" />
+    <object className="sign" x="832" y="416" width="21" height="27" />
+    <object className="sign" x="940" y="332" width="34" height="25" />
+    <object className="sign" x="773" y="448" width="18" height="17" />
+    <object className="sign" x="941" y="400" width="32" height="32" />
+    <object className="sign" x="833" y="396" width="18" height="22" />
+    <object className="sign" x="936" y="355" width="40" height="43" />
+  </file>
+  <file path="180115_125108_00090.png" tags="" viewed="1">
+    <object className="person" x="289" y="443" width="37" height="78" />
+    <object className="person" x="841" y="460" width="17" height="47" />
+    <object className="car" x="710" y="464" width="62" height="49" />
+    <object className="car" x="917" y="453" width="361" height="279" />
+    <object className="sign" x="834" y="383" width="32" height="25" />
+    <object className="sign" x="978" y="292" width="44" height="40" />
+    <object className="sign" x="772" y="441" width="21" height="21" />
+    <object className="sign" x="837" y="405" width="29" height="31" />
+    <object className="sign" x="981" y="333" width="41" height="46" />
+    <object className="sign" x="984" y="383" width="37" height="36" />
+  </file>
+  <file path="180115_125108_00100.png" tags="" viewed="1">
+    <object className="person" x="848" y="458" width="27" height="46" />
+    <object className="person" x="221" y="434" width="34" height="82" />
+    <object className="car" x="712" y="459" width="60" height="52" />
+    <object className="sign" x="1044" y="244" width="50" height="51" />
+    <object className="sign" x="1048" y="354" width="48" height="48" />
+    <object className="sign" x="772" y="435" width="23" height="22" />
+    <object className="sign" x="850" y="362" width="30" height="36" />
+    <object className="sign" x="1042" y="292" width="53" height="65" />
+    <object className="sign" x="849" y="391" width="33" height="33" />
+  </file>
+  <file path="180115_125108_00110.png" tags="" viewed="1">
+    <object className="person" x="26" y="473" width="37" height="71" />
+    <object className="person" x="109" y="454" width="44" height="92" />
+    <object className="person" x="848" y="472" width="30" height="46" />
+    <object className="car" x="693" y="477" width="58" height="52" />
+    <object className="sign" x="1124" y="195" width="69" height="66" />
+    <object className="sign" x="1129" y="262" width="57" height="76" />
+    <object className="sign" x="757" y="445" width="24" height="24" />
+    <object className="sign" x="850" y="396" width="34" height="37" />
+    <object className="sign" x="852" y="368" width="32" height="32" />
+    <object className="sign" x="1128" y="337" width="56" height="65" />
+  </file>
+  <file path="180115_125108_00120.png" tags="" viewed="1">
+    <object className="person" x="868" y="458" width="25" height="56" />
+    <object className="car" x="677" y="468" width="65" height="52" />
+    <object className="sign" x="780" y="435" width="20" height="18" />
+    <object className="sign" x="861" y="416" width="34" height="13" />
+    <object className="sign" x="61" y="459" width="25" height="24" />
+    <object className="sign" x="580" y="433" width="21" height="19" />
+    <object className="sign" x="862" y="345" width="36" height="33" />
+    <object className="sign" x="750" y="436" width="20" height="20" />
+    <object className="sign" x="861" y="378" width="40" height="36" />
+    <object className="sign" x="192" y="454" width="23" height="24" />
+  </file>
+  <file path="180115_125108_00130.png" tags="" viewed="1">
+    <object className="person" x="881" y="463" width="40" height="63" />
+    <object className="car" x="666" y="470" width="72" height="57" />
+    <object className="sign" x="889" y="370" width="38" height="41" />
+    <object className="sign" x="752" y="438" width="20" height="19" />
+    <object className="sign" x="781" y="433" width="20" height="21" />
+    <object className="sign" x="885" y="325" width="44" height="42" />
+    <object className="sign" x="572" y="432" width="20" height="22" />
+    <object className="sign" x="886" y="412" width="40" height="17" />
+  </file>
+  <file path="180115_125134_00000.png" tags="" viewed="1">
+    <object className="person" x="163" y="436" width="28" height="43" />
+    <object className="person" x="102" y="439" width="34" height="71" />
+    <object className="person" x="890" y="456" width="21" height="58" />
+    <object className="car" x="785" y="448" width="109" height="97" />
+    <object className="car" x="913" y="450" width="93" height="51" />
+    <object className="truck" x="433" y="415" width="98" height="66" />
+    <object className="sign" x="530" y="414" width="24" height="25" />
+    <object className="sign" x="744" y="397" width="17" height="24" />
+    <object className="sign" x="253" y="245" width="100" height="103" />
+    <object className="sign" x="533" y="393" width="21" height="20" />
+    <object className="sign" x="837" y="407" width="24" height="26" />
+    <object className="sign" x="884" y="399" width="21" height="33" />
+  </file>
+  <file path="180115_125134_00010.png" tags="" viewed="1">
+    <object className="person" x="19" y="443" width="30" height="82" />
+    <object className="person" x="914" y="464" width="22" height="57" />
+    <object className="person" x="121" y="434" width="28" height="51" />
+    <object className="car" x="929" y="457" width="96" height="57" />
+    <object className="car" x="802" y="452" width="124" height="118" />
+    <object className="truck" x="418" y="417" width="102" height="68" />
+    <object className="sign" x="744" y="397" width="21" height="27" />
+    <object className="sign" x="850" y="409" width="28" height="27" />
+    <object className="sign" x="89" y="159" width="137" height="151" />
+    <object className="sign" x="900" y="401" width="20" height="29" />
+    <object className="sign" x="524" y="394" width="20" height="22" />
+    <object className="sign" x="522" y="418" width="22" height="21" />
+    <object className="sign" x="254" y="412" width="29" height="27" />
+    <object className="sign" x="278" y="396" width="38" height="33" />
+    <object className="sign" x="276" y="357" width="37" height="36" />
+  </file>
+  <file path="180115_125134_00020.png" tags="" viewed="1">
+    <object className="car" x="956" y="461" width="90" height="55" />
+    <object className="car" x="828" y="459" width="148" height="129" />
+    <object className="car" x="266" y="444" width="67" height="48" />
+    <object className="truck" x="406" y="420" width="110" height="68" />
+    <object className="sign" x="866" y="406" width="26" height="29" />
+    <object className="sign" x="921" y="395" width="18" height="31" />
+    <object className="sign" x="230" y="352" width="34" height="39" />
+    <object className="sign" x="232" y="391" width="38" height="37" />
+    <object className="sign" x="513" y="418" width="21" height="21" />
+    <object className="sign" x="512" y="393" width="24" height="23" />
+    <object className="sign" x="748" y="395" width="22" height="30" />
+  </file>
+  <file path="180115_125134_00030.png" tags="" viewed="1">
+    <object className="car" x="1006" y="459" width="69" height="54" />
+    <object className="car" x="857" y="451" width="193" height="162" />
+    <object className="car" x="239" y="443" width="77" height="53" />
+    <object className="truck" x="394" y="415" width="113" height="74" />
+    <object className="sign" x="177" y="336" width="37" height="44" />
+    <object className="sign" x="174" y="381" width="40" height="38" />
+    <object className="sign" x="1229" y="396" width="24" height="26" />
+    <object className="sign" x="198" y="409" width="28" height="31" />
+    <object className="sign" x="506" y="389" width="21" height="23" />
+    <object className="sign" x="893" y="397" width="34" height="33" />
+    <object className="sign" x="501" y="411" width="28" height="26" />
+    <object className="sign" x="945" y="385" width="21" height="35" />
+    <object className="sign" x="757" y="390" width="22" height="29" />
+  </file>
+  <file path="180115_125134_00040.png" tags="" viewed="1">
+    <object className="car" x="181" y="443" width="40" height="44" />
+    <object className="car" x="1133" y="469" width="134" height="60" />
+    <object className="car" x="901" y="436" width="277" height="206" />
+    <object className="car" x="223" y="441" width="77" height="53" />
+    <object className="car" x="835" y="455" width="186" height="146" />
+    <object className="truck" x="382" y="409" width="120" height="76" />
+    <object className="sign" x="768" y="378" width="25" height="32" />
+    <object className="sign" x="498" y="378" width="21" height="25" />
+    <object className="sign" x="107" y="364" width="51" height="54" />
+    <object className="sign" x="496" y="404" width="25" height="30" />
+    <object className="sign" x="921" y="385" width="38" height="35" />
+    <object className="sign" x="168" y="402" width="30" height="33" />
+    <object className="sign" x="104" y="315" width="46" height="53" />
+    <object className="sign" x="977" y="372" width="30" height="40" />
+  </file>
+  <file path="180115_125134_00050.png" tags="" viewed="1">
+    <object className="car" x="996" y="432" width="282" height="283" />
+    <object className="car" x="878" y="445" width="237" height="193" />
+    <object className="car" x="161" y="450" width="67" height="42" />
+    <object className="car" x="206" y="444" width="77" height="54" />
+    <object className="truck" x="373" y="408" width="125" height="87" />
+    <object className="sign" x="21" y="293" width="49" height="58" />
+    <object className="sign" x="18" y="354" width="60" height="52" />
+    <object className="sign" x="492" y="375" width="25" height="24" />
+    <object className="sign" x="489" y="402" width="30" height="31" />
+    <object className="sign" x="785" y="373" width="31" height="39" />
+    <object className="sign" x="966" y="374" width="44" height="40" />
+    <object className="sign" x="134" y="404" width="42" height="36" />
+    <object className="sign" x="1025" y="360" width="34" height="52" />
+  </file>
+  <file path="180115_125156_00000.png" tags="" viewed="1">
+    <object className="person" x="1090" y="453" width="40" height="120" />
+    <object className="person" x="1096" y="464" width="1" height="5" />
+    <object className="person" x="1056" y="496" width="34" height="74" />
+    <object className="person" x="856" y="452" width="30" height="125" />
+    <object className="car" x="1116" y="476" width="161" height="76" />
+    <object className="car" x="872" y="470" width="158" height="116" />
+    <object className="sign" x="893" y="388" width="38" height="30" />
+    <object className="sign" x="573" y="445" width="26" height="22" />
+  </file>
+  <file path="180115_125156_00010.png" tags="" viewed="1">
+    <object className="person" x="1204" y="444" width="62" height="159" />
+    <object className="person" x="128" y="463" width="37" height="66" />
+    <object className="person" x="906" y="443" width="64" height="166" />
+    <object className="person" x="1169" y="505" width="42" height="97" />
+    <object className="car" x="745" y="473" width="67" height="57" />
+    <object className="car" x="847" y="457" width="154" height="126" />
+    <object className="car" x="932" y="469" width="220" height="149" />
+    <object className="sign" x="100" y="438" width="31" height="29" />
+    <object className="sign" x="934" y="372" width="46" height="37" />
+    <object className="sign" x="565" y="438" width="29" height="25" />
+  </file>
+  <file path="180115_125156_00020.png" tags="" viewed="1">
+    <object className="person" x="1024" y="418" width="85" height="252" />
+    <object className="car" x="914" y="454" width="206" height="164" />
+    <object className="car" x="1036" y="461" width="242" height="220" />
+    <object className="car" x="757" y="461" width="74" height="63" />
+    <object className="sign" x="898" y="432" width="28" height="26" />
+    <object className="sign" x="1006" y="343" width="52" height="45" />
+    <object className="sign" x="566" y="428" width="29" height="26" />
+  </file>
+  <file path="180115_125156_00030.png" tags="" viewed="1">
+    <object className="car" x="998" y="425" width="280" height="244" />
+    <object className="car" x="872" y="449" width="142" height="122" />
+    <object className="car" x="933" y="468" width="176" height="137" />
+    <object className="car" x="780" y="453" width="88" height="74" />
+    <object className="sign" x="934" y="417" width="36" height="32" />
+    <object className="sign" x="818" y="406" width="28" height="23" />
+    <object className="sign" x="562" y="414" width="37" height="31" />
+    <object className="sign" x="1114" y="294" width="66" height="60" />
+  </file>
+  <file path="180115_125156_00040.png" tags="" viewed="1">
+    <object className="car" x="808" y="453" width="101" height="82" />
+    <object className="car" x="769" y="469" width="62" height="47" />
+    <object className="car" x="1026" y="457" width="244" height="203" />
+    <object className="car" x="933" y="441" width="197" height="164" />
+    <object className="sign" x="846" y="402" width="26" height="24" />
+    <object className="sign" x="980" y="416" width="32" height="30" />
+    <object className="sign" x="564" y="416" width="36" height="31" />
+  </file>
+  <file path="180115_125156_00050.png" tags="" viewed="1">
+    <object className="person" x="977" y="462" width="29" height="75" />
+    <object className="car" x="787" y="471" width="61" height="48" />
+    <object className="car" x="1029" y="435" width="249" height="225" />
+    <object className="car" x="840" y="456" width="114" height="96" />
+    <object className="sign" x="869" y="420" width="34" height="13" />
+    <object className="sign" x="553" y="410" width="34" height="31" />
+    <object className="sign" x="1024" y="408" width="37" height="33" />
+    <object className="sign" x="869" y="396" width="37" height="24" />
+  </file>
+  <file path="180115_125156_00060.png" tags="" viewed="1">
+    <object className="person" x="1025" y="458" width="38" height="94" />
+    <object className="car" x="1161" y="458" width="115" height="100" />
+    <object className="car" x="857" y="446" width="150" height="118" />
+    <object className="car" x="784" y="458" width="85" height="64" />
+    <object className="sign" x="885" y="407" width="38" height="17" />
+    <object className="sign" x="885" y="379" width="37" height="33" />
+    <object className="sign" x="522" y="399" width="41" height="35" />
+    <object className="sign" x="1072" y="393" width="40" height="38" />
+  </file>
+  <file path="180115_125156_00070.png" tags="" viewed="1">
+    <object className="person" x="1106" y="466" width="49" height="112" />
+    <object className="car" x="792" y="469" width="96" height="68" />
+    <object className="car" x="897" y="441" width="206" height="161" />
+    <object className="sign" x="916" y="371" width="44" height="34" />
+    <object className="sign" x="492" y="394" width="46" height="44" />
+    <object className="sign" x="921" y="405" width="33" height="17" />
+    <object className="sign" x="1142" y="387" width="45" height="41" />
+  </file>
+  <file path="180115_125156_00080.png" tags="" viewed="1">
+    <object className="car" x="809" y="459" width="110" height="81" />
+    <object className="car" x="973" y="422" width="305" height="221" />
+    <object className="sign" x="444" y="362" width="64" height="58" />
+    <object className="sign" x="961" y="336" width="52" height="44" />
+    <object className="sign" x="964" y="379" width="45" height="19" />
+  </file>
+  <file path="180115_125156_00090.png" tags="" viewed="1">
+    <object className="person" x="1097" y="433" width="57" height="115" />
+    <object className="car" x="836" y="463" width="134" height="98" />
+    <object className="sign" x="380" y="338" width="78" height="73" />
+    <object className="sign" x="1034" y="362" width="60" height="24" />
+    <object className="sign" x="1036" y="310" width="57" height="49" />
+  </file>
+  <file path="180115_125156_00100.png" tags="" viewed="1">
+    <object className="person" x="1213" y="432" width="62" height="155" />
+    <object className="car" x="877" y="473" width="184" height="117" />
+    <object className="sign" x="267" y="303" width="104" height="98" />
+    <object className="sign" x="1162" y="259" width="84" height="68" />
+    <object className="sign" x="1164" y="328" width="77" height="34" />
+  </file>
+  <file path="180115_125156_00110.png" tags="" viewed="1">
+    <object className="person" x="822" y="447" width="30" height="86" />
+    <object className="car" x="886" y="462" width="153" height="127" />
+    <object className="car" x="954" y="458" width="286" height="181" />
+    <object className="sign" x="30" y="200" width="158" height="156" />
+  </file>
+  <file path="180115_125156_00120.png" tags="" viewed="1">
+    <object className="person" x="865" y="450" width="42" height="105" />
+    <object className="car" x="958" y="458" width="256" height="184" />
+    <object className="car" x="888" y="458" width="167" height="128" />
+  </file>
+  <file path="180115_125209_00000.png" tags="" viewed="1">
+    <object className="car" x="335" y="466" width="71" height="51" />
+    <object className="car" x="1026" y="441" width="252" height="277" />
+    <object className="car" x="925" y="437" width="242" height="195" />
+    <object className="car" x="775" y="461" width="57" height="46" />
+    <object className="car" x="659" y="463" width="55" height="48" />
+    <object className="car" x="586" y="459" width="63" height="51" />
+    <object className="car" x="424" y="459" width="81" height="53" />
+    <object className="car" x="721" y="464" width="55" height="46" />
+    <object className="truck" x="824" y="428" width="122" height="107" />
+    <object className="sign" x="944" y="288" width="48" height="44" />
+    <object className="sign" x="829" y="377" width="33" height="26" />
+    <object className="sign" x="948" y="346" width="46" height="41" />
+    <object className="sign" x="428" y="333" width="40" height="34" />
+    <object className="sign" x="938" y="237" width="54" height="44" />
+    <object className="sign" x="833" y="402" width="28" height="27" />
+  </file>
+  <file path="180115_125209_00010.png" tags="" viewed="1">
+    <object className="car" x="219" y="472" width="59" height="44" />
+    <object className="car" x="565" y="458" width="71" height="54" />
+    <object className="car" x="648" y="464" width="54" height="46" />
+    <object className="car" x="981" y="413" width="296" height="286" />
+    <object className="car" x="389" y="459" width="94" height="51" />
+    <object className="car" x="300" y="463" width="82" height="59" />
+    <object className="car" x="713" y="461" width="55" height="46" />
+    <object className="car" x="777" y="456" width="67" height="54" />
+    <object className="truck" x="874" y="419" width="164" height="124" />
+    <object className="sign" x="836" y="367" width="33" height="26" />
+    <object className="sign" x="989" y="249" width="57" height="51" />
+    <object className="sign" x="982" y="187" width="65" height="54" />
+    <object className="sign" x="378" y="310" width="41" height="37" />
+    <object className="sign" x="993" y="320" width="52" height="51" />
+    <object className="sign" x="836" y="393" width="32" height="31" />
+  </file>
+  <file path="180115_125209_00020.png" tags="" viewed="1">
+    <object className="car" x="347" y="459" width="102" height="61" />
+    <object className="car" x="542" y="463" width="75" height="59" />
+    <object className="car" x="173" y="474" width="55" height="44" />
+    <object className="car" x="248" y="468" width="82" height="54" />
+    <object className="car" x="84" y="481" width="67" height="41" />
+    <object className="car" x="626" y="468" width="59" height="51" />
+    <object className="car" x="698" y="461" width="63" height="51" />
+    <object className="car" x="771" y="458" width="65" height="53" />
+    <object className="car" x="1138" y="441" width="131" height="68" />
+    <object className="truck" x="953" y="418" width="196" height="134" />
+    <object className="sign" x="832" y="358" width="37" height="32" />
+    <object className="sign" x="836" y="388" width="32" height="31" />
+    <object className="sign" x="306" y="285" width="46" height="43" />
+    <object className="sign" x="1048" y="203" width="70" height="64" />
+    <object className="sign" x="1042" y="122" width="76" height="68" />
+    <object className="sign" x="1054" y="290" width="61" height="62" />
+  </file>
+  <file path="180115_125209_00030.png" tags="" viewed="1">
+    <object className="car" x="5" y="482" width="69" height="43" />
+    <object className="car" x="88" y="472" width="63" height="51" />
+    <object className="car" x="735" y="461" width="81" height="56" />
+    <object className="car" x="183" y="463" width="84" height="61" />
+    <object className="car" x="584" y="466" width="69" height="56" />
+    <object className="car" x="497" y="463" width="77" height="56" />
+    <object className="car" x="285" y="456" width="109" height="64" />
+    <object className="car" x="667" y="463" width="63" height="54" />
+    <object className="car" x="1180" y="444" width="96" height="59" />
+    <object className="truck" x="998" y="406" width="254" height="164" />
+    <object className="sign" x="1109" y="24" width="105" height="88" />
+    <object className="sign" x="817" y="350" width="38" height="31" />
+    <object className="sign" x="193" y="242" width="57" height="58" />
+    <object className="sign" x="1120" y="236" width="88" height="83" />
+    <object className="sign" x="818" y="379" width="32" height="35" />
+    <object className="sign" x="1118" y="123" width="92" height="94" />
+  </file>
+  <file path="180115_125209_00040.png" tags="" viewed="1">
+    <object className="car" x="0" y="472" width="50" height="59" />
+    <object className="car" x="530" y="458" width="75" height="63" />
+    <object className="car" x="626" y="459" width="63" height="56" />
+    <object className="car" x="88" y="463" width="98" height="66" />
+    <object className="car" x="443" y="459" width="73" height="64" />
+    <object className="car" x="212" y="453" width="111" height="68" />
+    <object className="car" x="694" y="456" width="84" height="63" />
+    <object className="truck" x="1069" y="408" width="209" height="167" />
+    <object className="sign" x="20" y="186" width="74" height="71" />
+    <object className="sign" x="784" y="334" width="40" height="34" />
+    <object className="sign" x="786" y="371" width="37" height="33" />
+  </file>
+  <file path="180115_125209_00050.png" tags="" viewed="1">
+    <object className="car" x="15" y="471" width="94" height="69" />
+    <object className="car" x="582" y="463" width="77" height="61" />
+    <object className="car" x="144" y="456" width="117" height="69" />
+    <object className="car" x="383" y="461" width="82" height="66" />
+    <object className="car" x="488" y="463" width="75" height="59" />
+    <object className="car" x="669" y="458" width="79" height="66" />
+    <object className="sign" x="764" y="360" width="42" height="40" />
+    <object className="sign" x="1084" y="239" width="50" height="92" />
+    <object className="sign" x="1061" y="370" width="32" height="58" />
+    <object className="sign" x="758" y="319" width="48" height="41" />
+  </file>
+  <file path="180115_125209_00060.png" tags="" viewed="1">
+    <object className="car" x="1132" y="424" width="144" height="87" />
+    <object className="car" x="437" y="459" width="92" height="68" />
+    <object className="car" x="75" y="453" width="125" height="82" />
+    <object className="car" x="644" y="456" width="88" height="63" />
+    <object className="car" x="329" y="454" width="94" height="73" />
+    <object className="car" x="549" y="461" width="79" height="63" />
+    <object className="sign" x="1150" y="181" width="60" height="108" />
+    <object className="sign" x="1081" y="353" width="30" height="61" />
+    <object className="sign" x="744" y="301" width="45" height="41" />
+    <object className="sign" x="745" y="344" width="42" height="43" />
+  </file>
+  <file path="180115_125209_00070.png" tags="" viewed="1">
+    <object className="car" x="279" y="453" width="100" height="76" />
+    <object className="car" x="3" y="454" width="129" height="79" />
+    <object className="car" x="1140" y="423" width="136" height="84" />
+    <object className="car" x="517" y="454" width="88" height="73" />
+    <object className="car" x="609" y="449" width="102" height="74" />
+    <object className="car" x="401" y="456" width="90" height="68" />
+    <object className="sign" x="728" y="327" width="53" height="48" />
+    <object className="sign" x="726" y="279" width="57" height="48" />
+    <object className="sign" x="1109" y="340" width="38" height="68" />
+  </file>
+  <file path="180115_125209_00080.png" tags="" viewed="1">
+    <object className="car" x="594" y="441" width="104" height="84" />
+    <object className="car" x="1143" y="418" width="133" height="87" />
+    <object className="car" x="484" y="447" width="95" height="87" />
+    <object className="car" x="3" y="448" width="69" height="86" />
+    <object className="car" x="358" y="451" width="106" height="84" />
+    <object className="car" x="233" y="446" width="102" height="89" />
+    <object className="sign" x="714" y="308" width="60" height="55" />
+    <object className="sign" x="1143" y="316" width="44" height="78" />
+    <object className="sign" x="710" y="258" width="65" height="51" />
+  </file>
+  <file path="180115_125209_00090.png" tags="" viewed="1">
+    <object className="person" x="283" y="431" width="36" height="86" />
+    <object className="car" x="1140" y="408" width="136" height="97" />
+    <object className="car" x="303" y="450" width="118" height="91" />
+    <object className="car" x="156" y="449" width="119" height="94" />
+    <object className="car" x="441" y="451" width="96" height="81" />
+    <object className="car" x="549" y="446" width="119" height="82" />
+    <object className="sign" x="684" y="291" width="61" height="59" />
+    <object className="sign" x="674" y="235" width="73" height="52" />
+    <object className="sign" x="1163" y="293" width="55" height="89" />
+  </file>
+  <file path="180115_125209_00100.png" tags="" viewed="1">
+    <object className="car" x="1118" y="391" width="158" height="101" />
+    <object className="car" x="484" y="417" width="142" height="101" />
+    <object className="car" x="84" y="426" width="113" height="102" />
+    <object className="car" x="225" y="431" width="119" height="91" />
+    <object className="car" x="372" y="433" width="104" height="84" />
+    <object className="sign" x="637" y="258" width="64" height="60" />
+    <object className="sign" x="1166" y="268" width="54" height="89" />
+    <object className="sign" x="626" y="190" width="76" height="67" />
+  </file>
+  <file path="180115_125209_00110.png" tags="" viewed="1">
+    <object className="car" x="245" y="434" width="782" height="306" />
+    <object className="car" x="139" y="425" width="121" height="107" />
+    <object className="car" x="1" y="424" width="106" height="106" />
+    <object className="car" x="295" y="421" width="112" height="96" />
+    <object className="car" x="1058" y="370" width="218" height="107" />
+    <object className="sign" x="1133" y="225" width="76" height="110" />
+    <object className="sign" x="561" y="230" width="71" height="73" />
+    <object className="sign" x="556" y="160" width="80" height="71" />
+  </file>
+  <file path="180115_125222_00000.png" tags="" viewed="1">
+    <object className="person" x="374" y="456" width="41" height="96" />
+    <object className="car" x="521" y="459" width="258" height="203" />
+    <object className="car" x="28" y="462" width="143" height="69" />
+    <object className="car" x="1091" y="467" width="104" height="57" />
+    <object className="car" x="890" y="472" width="57" height="50" />
+    <object className="car" x="0" y="472" width="103" height="67" />
+    <object className="car" x="973" y="475" width="60" height="48" />
+    <object className="sign" x="1156" y="360" width="54" height="47" />
+    <object className="sign" x="1154" y="318" width="53" height="41" />
+    <object className="sign" x="1160" y="408" width="44" height="39" />
+    <object className="sign" x="381" y="434" width="36" height="38" />
+    <object className="sign" x="4" y="408" width="28" height="38" />
+    <object className="sign" x="616" y="416" width="37" height="32" />
+    <object className="sign" x="1125" y="410" width="36" height="35" />
+    <object className="sign" x="793" y="428" width="32" height="30" />
+  </file>
+  <file path="180115_125222_00010.png" tags="" viewed="1">
+    <object className="person" x="265" y="444" width="42" height="110" />
+    <object className="person" x="332" y="472" width="25" height="55" />
+    <object className="person" x="558" y="465" width="26" height="49" />
+    <object className="car" x="928" y="465" width="52" height="47" />
+    <object className="car" x="1054" y="457" width="104" height="60" />
+    <object className="car" x="7" y="462" width="114" height="58" />
+    <object className="car" x="586" y="451" width="208" height="168" />
+    <object className="car" x="0" y="456" width="57" height="69" />
+    <object className="car" x="845" y="463" width="56" height="48" />
+    <object className="sign" x="1148" y="290" width="48" height="43" />
+    <object className="sign" x="302" y="423" width="29" height="27" />
+    <object className="sign" x="738" y="414" width="33" height="32" />
+    <object className="sign" x="1068" y="406" width="20" height="26" />
+    <object className="sign" x="1144" y="339" width="52" height="48" />
+    <object className="sign" x="1093" y="396" width="34" height="35" />
+    <object className="sign" x="1148" y="389" width="49" height="42" />
+    <object className="sign" x="552" y="403" width="30" height="33" />
+  </file>
+  <file path="180115_125222_00020.png" tags="" viewed="1">
+    <object className="person" x="460" y="462" width="26" height="51" />
+    <object className="person" x="125" y="434" width="44" height="130" />
+    <object className="person" x="185" y="454" width="30" height="65" />
+    <object className="person" x="213" y="478" width="29" height="53" />
+    <object className="person" x="180" y="488" width="26" height="40" />
+    <object className="person" x="601" y="451" width="29" height="51" />
+    <object className="car" x="869" y="460" width="56" height="48" />
+    <object className="car" x="1012" y="458" width="88" height="61" />
+    <object className="car" x="600" y="451" width="176" height="149" />
+    <object className="car" x="792" y="459" width="57" height="49" />
+    <object className="sign" x="1132" y="262" width="68" height="52" />
+    <object className="sign" x="205" y="417" width="30" height="32" />
+    <object className="sign" x="1057" y="386" width="48" height="46" />
+    <object className="sign" x="1138" y="319" width="61" height="61" />
+    <object className="sign" x="1141" y="375" width="56" height="52" />
+    <object className="sign" x="1020" y="402" width="20" height="25" />
+    <object className="sign" x="474" y="393" width="34" height="37" />
+    <object className="sign" x="672" y="407" width="45" height="39" />
+  </file>
+  <file path="180115_125222_00030.png" tags="" viewed="1">
+    <object className="person" x="333" y="462" width="28" height="64" />
+    <object className="person" x="53" y="456" width="33" height="82" />
+    <object className="person" x="45" y="466" width="33" height="75" />
+    <object className="person" x="510" y="449" width="34" height="73" />
+    <object className="car" x="722" y="460" width="60" height="49" />
+    <object className="car" x="798" y="462" width="54" height="41" />
+    <object className="car" x="572" y="456" width="156" height="141" />
+    <object className="car" x="953" y="457" width="115" height="64" />
+    <object className="sign" x="1124" y="295" width="70" height="65" />
+    <object className="sign" x="1010" y="380" width="56" height="52" />
+    <object className="sign" x="592" y="404" width="45" height="44" />
+    <object className="sign" x="74" y="415" width="37" height="34" />
+    <object className="sign" x="956" y="402" width="22" height="23" />
+    <object className="sign" x="1124" y="232" width="69" height="57" />
+    <object className="sign" x="1129" y="361" width="61" height="57" />
+    <object className="sign" x="368" y="387" width="42" height="42" />
+  </file>
+  <file path="180115_125222_00040.png" tags="" viewed="1">
+    <object className="person" x="174" y="470" width="33" height="71" />
+    <object className="person" x="398" y="451" width="40" height="77" />
+    <object className="car" x="885" y="458" width="134" height="69" />
+    <object className="car" x="642" y="461" width="53" height="45" />
+    <object className="car" x="1105" y="438" width="172" height="122" />
+    <object className="car" x="272" y="472" width="63" height="43" />
+    <object className="car" x="518" y="465" width="133" height="118" />
+    <object className="car" x="714" y="460" width="53" height="46" />
+    <object className="car" x="1188" y="423" width="89" height="149" />
+    <object className="sign" x="234" y="376" width="57" height="57" />
+    <object className="sign" x="1114" y="265" width="92" height="75" />
+    <object className="sign" x="886" y="400" width="18" height="26" />
+    <object className="sign" x="955" y="374" width="56" height="54" />
+    <object className="sign" x="1118" y="183" width="84" height="73" />
+    <object className="sign" x="1126" y="344" width="70" height="64" />
+    <object className="sign" x="497" y="402" width="41" height="41" />
+    <object className="sign" x="778" y="410" width="21" height="19" />
+  </file>
+  <file path="180115_125222_00050.png" tags="" viewed="1">
+    <object className="person" x="284" y="452" width="42" height="93" />
+    <object className="person" x="1" y="475" width="34" height="78" />
+    <object className="car" x="162" y="474" width="71" height="48" />
+    <object className="car" x="448" y="467" width="130" height="110" />
+    <object className="car" x="240" y="468" width="76" height="58" />
+    <object className="car" x="636" y="463" width="52" height="41" />
+    <object className="car" x="560" y="464" width="54" height="43" />
+    <object className="car" x="827" y="464" width="133" height="69" />
+    <object className="car" x="1097" y="421" width="179" height="143" />
+    <object className="car" x="1033" y="435" width="209" height="119" />
+    <object className="car" x="952" y="454" width="197" height="90" />
+    <object className="sign" x="705" y="410" width="18" height="16" />
+    <object className="sign" x="86" y="373" width="54" height="50" />
+    <object className="sign" x="393" y="395" width="46" height="45" />
+    <object className="sign" x="1150" y="208" width="104" height="93" />
+    <object className="sign" x="916" y="365" width="50" height="47" />
+    <object className="sign" x="1162" y="310" width="86" height="77" />
+    <object className="sign" x="820" y="397" width="25" height="29" />
+    <object className="sign" x="1153" y="102" width="102" height="90" />
+  </file>
+  <file path="180115_125222_00060.png" tags="" viewed="1">
+    <object className="person" x="142" y="446" width="46" height="104" />
+    <object className="car" x="93" y="464" width="87" height="63" />
+    <object className="car" x="1116" y="418" width="160" height="159" />
+    <object className="car" x="484" y="459" width="52" height="42" />
+    <object className="car" x="186" y="469" width="70" height="41" />
+    <object className="car" x="560" y="457" width="49" height="38" />
+    <object className="car" x="763" y="452" width="165" height="91" />
+    <object className="car" x="1021" y="420" width="256" height="149" />
+    <object className="car" x="35" y="473" width="87" height="51" />
+    <object className="car" x="376" y="461" width="116" height="99" />
+    <object className="car" x="921" y="448" width="253" height="110" />
+    <object className="sign" x="869" y="342" width="71" height="66" />
+    <object className="sign" x="265" y="379" width="65" height="58" />
+    <object className="sign" x="756" y="389" width="24" height="26" />
+  </file>
+  <file path="180115_125222_00070.png" tags="" viewed="1">
+    <object className="person" x="10" y="442" width="54" height="131" />
+    <object className="car" x="442" y="462" width="54" height="44" />
+    <object className="car" x="522" y="460" width="49" height="37" />
+    <object className="car" x="128" y="473" width="67" height="42" />
+    <object className="car" x="333" y="468" width="120" height="91" />
+    <object className="car" x="739" y="450" width="193" height="109" />
+    <object className="car" x="1083" y="405" width="193" height="191" />
+    <object className="car" x="946" y="450" width="301" height="128" />
+    <object className="truck" x="256" y="435" width="62" height="60" />
+    <object className="truck" x="192" y="456" width="64" height="51" />
+    <object className="sign" x="882" y="313" width="78" height="81" />
+    <object className="sign" x="157" y="363" width="70" height="67" />
+    <object className="sign" x="733" y="383" width="24" height="29" />
+  </file>
+  <file path="180115_125222_00080.png" tags="" viewed="1">
+    <object className="car" x="341" y="463" width="112" height="87" />
+    <object className="car" x="0" y="473" width="60" height="65" />
+    <object className="car" x="780" y="452" width="215" height="125" />
+    <object className="car" x="448" y="462" width="50" height="40" />
+    <object className="car" x="113" y="476" width="59" height="39" />
+    <object className="car" x="528" y="460" width="50" height="36" />
+    <object className="car" x="1049" y="431" width="228" height="182" />
+    <object className="truck" x="243" y="435" width="75" height="69" />
+    <object className="truck" x="182" y="458" width="64" height="50" />
+    <object className="sign" x="958" y="263" width="112" height="103" />
+    <object className="sign" x="754" y="375" width="24" height="32" />
+    <object className="sign" x="50" y="340" width="86" height="82" />
+  </file>
+  <file path="180115_125222_00090.png" tags="" viewed="1">
+    <object className="car" x="94" y="481" width="67" height="41" />
+    <object className="car" x="838" y="449" width="262" height="153" />
+    <object className="car" x="458" y="462" width="56" height="41" />
+    <object className="car" x="544" y="458" width="48" height="40" />
+    <object className="car" x="356" y="463" width="108" height="89" />
+    <object className="truck" x="245" y="434" width="71" height="71" />
+    <object className="truck" x="175" y="458" width="70" height="56" />
+    <object className="sign" x="1133" y="164" width="143" height="152" />
+    <object className="sign" x="785" y="361" width="33" height="38" />
+  </file>
+  <file path="180115_125222_00100.png" tags="" viewed="1">
+    <object className="car" x="386" y="459" width="101" height="77" />
+    <object className="car" x="81" y="474" width="81" height="48" />
+    <object className="car" x="485" y="459" width="57" height="39" />
+    <object className="car" x="570" y="456" width="46" height="36" />
+    <object className="car" x="962" y="448" width="304" height="192" />
+    <object className="truck" x="266" y="428" width="65" height="69" />
+    <object className="truck" x="181" y="456" width="69" height="54" />
+    <object className="sign" x="657" y="388" width="26" height="23" />
+    <object className="sign" x="838" y="343" width="37" height="43" />
+  </file>
+  <file path="180115_125222_00110.png" tags="" viewed="1">
+    <object className="car" x="425" y="452" width="97" height="80" />
+    <object className="car" x="517" y="454" width="52" height="38" />
+    <object className="car" x="600" y="453" width="48" height="38" />
+    <object className="car" x="61" y="471" width="98" height="51" />
+    <object className="car" x="380" y="463" width="44" height="29" />
+    <object className="truck" x="179" y="450" width="82" height="64" />
+    <object className="truck" x="275" y="426" width="75" height="74" />
+    <object className="sign" x="913" y="320" width="34" height="46" />
+    <object className="sign" x="694" y="379" width="25" height="24" />
+  </file>
+  <file path="180115_125222_00120.png" tags="" viewed="1">
+    <object className="car" x="630" y="451" width="45" height="37" />
+    <object className="car" x="550" y="454" width="49" height="40" />
+    <object className="car" x="114" y="468" width="71" height="53" />
+    <object className="car" x="48" y="469" width="96" height="53" />
+    <object className="car" x="380" y="459" width="42" height="31" />
+    <object className="car" x="462" y="450" width="93" height="73" />
+    <object className="truck" x="279" y="416" width="86" height="79" />
+    <object className="truck" x="181" y="448" width="79" height="64" />
+    <object className="sign" x="1002" y="287" width="44" height="67" />
+    <object className="sign" x="697" y="409" width="18" height="14" />
+    <object className="sign" x="698" y="421" width="16" height="15" />
+    <object className="sign" x="732" y="395" width="22" height="14" />
+    <object className="sign" x="728" y="371" width="30" height="27" />
+  </file>
+  <file path="180115_125222_00130.png" tags="" viewed="1">
+    <object className="car" x="349" y="466" width="55" height="38" />
+    <object className="car" x="646" y="458" width="42" height="39" />
+    <object className="car" x="78" y="472" width="82" height="53" />
+    <object className="car" x="566" y="460" width="52" height="39" />
+    <object className="car" x="3" y="477" width="104" height="54" />
+    <object className="car" x="481" y="453" width="86" height="75" />
+    <object className="truck" x="154" y="449" width="84" height="68" />
+    <object className="truck" x="272" y="423" width="88" height="76" />
+    <object className="sign" x="750" y="399" width="28" height="12" />
+    <object className="sign" x="753" y="368" width="29" height="29" />
+    <object className="sign" x="1120" y="241" width="61" height="84" />
+    <object className="sign" x="714" y="413" width="20" height="14" />
+    <object className="sign" x="716" y="427" width="16" height="16" />
+  </file>
+  <file path="180115_125222_00140.png" tags="" viewed="1">
+    <object className="car" x="752" y="443" width="61" height="53" />
+    <object className="car" x="482" y="449" width="92" height="77" />
+    <object className="car" x="946" y="418" width="287" height="114" />
+    <object className="car" x="644" y="452" width="53" height="40" />
+    <object className="car" x="1" y="481" width="42" height="56" />
+    <object className="car" x="565" y="451" width="56" height="46" />
+    <object className="car" x="293" y="463" width="65" height="46" />
+    <object className="car" x="20" y="473" width="90" height="58" />
+    <object className="truck" x="246" y="421" width="94" height="82" />
+    <object className="truck" x="104" y="446" width="102" height="73" />
+    <object className="sign" x="762" y="383" width="30" height="14" />
+    <object className="sign" x="721" y="404" width="17" height="14" />
+    <object className="sign" x="721" y="418" width="17" height="15" />
+    <object className="sign" x="760" y="352" width="36" height="32" />
+  </file>
+  <file path="180115_125222_00150.png" tags="" viewed="1">
+    <object className="car" x="648" y="461" width="45" height="38" />
+    <object className="car" x="564" y="463" width="60" height="42" />
+    <object className="car" x="1020" y="416" width="256" height="142" />
+    <object className="car" x="481" y="458" width="90" height="74" />
+    <object className="car" x="316" y="471" width="44" height="39" />
+    <object className="car" x="763" y="453" width="65" height="53" />
+    <object className="car" x="208" y="469" width="84" height="56" />
+    <object className="truck" x="220" y="424" width="104" height="89" />
+    <object className="truck" x="44" y="458" width="117" height="73" />
+    <object className="sign" x="725" y="409" width="18" height="16" />
+    <object className="sign" x="774" y="347" width="37" height="36" />
+    <object className="sign" x="776" y="383" width="33" height="16" />
+    <object className="sign" x="725" y="423" width="16" height="16" />
+  </file>
+  <file path="180115_125222_00160.png" tags="" viewed="1">
+    <object className="car" x="295" y="472" width="46" height="38" />
+    <object className="car" x="773" y="458" width="73" height="59" />
+    <object className="car" x="561" y="465" width="61" height="44" />
+    <object className="car" x="878" y="442" width="204" height="94" />
+    <object className="car" x="969" y="442" width="231" height="104" />
+    <object className="car" x="84" y="474" width="117" height="64" />
+    <object className="car" x="474" y="461" width="97" height="73" />
+    <object className="car" x="1025" y="426" width="251" height="132" />
+    <object className="car" x="1155" y="406" width="121" height="197" />
+    <object className="car" x="646" y="467" width="52" height="36" />
+    <object className="truck" x="3" y="456" width="94" height="87" />
+    <object className="truck" x="183" y="424" width="113" height="89" />
+    <object className="sign" x="728" y="410" width="20" height="16" />
+    <object className="sign" x="730" y="425" width="17" height="15" />
+    <object className="sign" x="793" y="332" width="41" height="40" />
+    <object className="sign" x="796" y="374" width="30" height="18" />
+  </file>
+  <file path="180115_125222_00170.png" tags="" viewed="1">
+    <object className="car" x="994" y="455" width="236" height="110" />
+    <object className="car" x="645" y="468" width="57" height="47" />
+    <object className="car" x="917" y="443" width="222" height="116" />
+    <object className="car" x="362" y="476" width="43" height="32" />
+    <object className="car" x="875" y="452" width="86" height="65" />
+    <object className="car" x="562" y="470" width="54" height="45" />
+    <object className="car" x="1140" y="419" width="137" height="182" />
+    <object className="car" x="789" y="461" width="79" height="64" />
+    <object className="car" x="1050" y="443" width="226" height="134" />
+    <object className="car" x="474" y="461" width="97" height="75" />
+    <object className="car" x="268" y="476" width="52" height="41" />
+    <object className="truck" x="140" y="419" width="127" height="106" />
+    <object className="sign" x="734" y="429" width="21" height="16" />
+    <object className="sign" x="814" y="309" width="50" height="50" />
+    <object className="sign" x="736" y="409" width="20" height="20" />
+    <object className="sign" x="818" y="361" width="42" height="19" />
+  </file>
+  <file path="180115_125222_00180.png" tags="" viewed="1">
+    <object className="car" x="556" y="470" width="64" height="47" />
+    <object className="car" x="229" y="474" width="61" height="43" />
+    <object className="car" x="476" y="465" width="86" height="77" />
+    <object className="car" x="986" y="437" width="281" height="131" />
+    <object className="car" x="905" y="447" width="93" height="79" />
+    <object className="car" x="804" y="454" width="86" height="74" />
+    <object className="car" x="644" y="470" width="56" height="45" />
+    <object className="car" x="1079" y="437" width="198" height="149" />
+    <object className="car" x="343" y="474" width="42" height="36" />
+    <object className="car" x="1178" y="439" width="98" height="162" />
+    <object className="truck" x="77" y="408" width="158" height="122" />
+    <object className="sign" x="737" y="421" width="21" height="16" />
+    <object className="sign" x="849" y="336" width="48" height="24" />
+    <object className="sign" x="848" y="276" width="50" height="58" />
+    <object className="sign" x="738" y="403" width="21" height="18" />
+  </file>
+  <file path="180115_125222_00190.png" tags="" viewed="1">
+    <object className="car" x="324" y="481" width="48" height="34" />
+    <object className="car" x="642" y="472" width="52" height="44" />
+    <object className="car" x="1095" y="431" width="181" height="156" />
+    <object className="car" x="548" y="471" width="61" height="50" />
+    <object className="car" x="831" y="456" width="90" height="81" />
+    <object className="car" x="200" y="484" width="63" height="44" />
+    <object className="car" x="464" y="465" width="100" height="82" />
+    <object className="car" x="937" y="446" width="108" height="79" />
+    <object className="truck" x="17" y="413" width="173" height="131" />
+    <object className="sign" x="738" y="399" width="24" height="20" />
+    <object className="sign" x="894" y="228" width="73" height="64" />
+    <object className="sign" x="897" y="296" width="62" height="32" />
+    <object className="sign" x="744" y="421" width="24" height="15" />
+    <object className="sign" x="797" y="422" width="16" height="19" />
+  </file>
+  <file path="180115_125222_00200.png" tags="" viewed="1">
+    <object className="car" x="299" y="486" width="52" height="36" />
+    <object className="car" x="852" y="450" width="131" height="109" />
+    <object className="car" x="988" y="448" width="142" height="98" />
+    <object className="car" x="584" y="480" width="43" height="35" />
+    <object className="car" x="642" y="476" width="60" height="47" />
+    <object className="car" x="449" y="471" width="113" height="83" />
+    <object className="car" x="534" y="479" width="67" height="53" />
+    <object className="car" x="160" y="491" width="65" height="44" />
+    <object className="truck" x="3" y="409" width="133" height="147" />
+    <object className="sign" x="994" y="236" width="81" height="39" />
+    <object className="sign" x="812" y="421" width="20" height="24" />
+    <object className="sign" x="978" y="120" width="120" height="119" />
+    <object className="sign" x="573" y="455" width="26" height="23" />
+    <object className="sign" x="753" y="419" width="25" height="20" />
+    <object className="sign" x="752" y="397" width="25" height="22" />
+    <object className="sign" x="714" y="455" width="23" height="19" />
+    <object className="sign" x="503" y="451" width="25" height="23" />
+  </file>
+  <file path="180115_125222_00210.png" tags="" viewed="1">
+    <object className="car" x="270" y="474" width="52" height="38" />
+    <object className="car" x="522" y="464" width="69" height="59" />
+    <object className="car" x="1057" y="433" width="177" height="121" />
+    <object className="car" x="893" y="441" width="156" height="122" />
+    <object className="car" x="100" y="479" width="82" height="53" />
+    <object className="car" x="586" y="470" width="37" height="34" />
+    <object className="car" x="428" y="461" width="114" height="91" />
+    <object className="car" x="634" y="467" width="60" height="47" />
+    <object className="sign" x="568" y="445" width="17" height="14" />
+    <object className="sign" x="492" y="443" width="18" height="17" />
+    <object className="sign" x="713" y="441" width="16" height="18" />
+    <object className="sign" x="754" y="376" width="28" height="24" />
+    <object className="sign" x="754" y="403" width="30" height="23" />
+    <object className="sign" x="818" y="406" width="20" height="27" />
+  </file>
+  <file path="180115_125222_00220.png" tags="" viewed="1">
+    <object className="car" x="580" y="469" width="41" height="33" />
+    <object className="car" x="628" y="468" width="70" height="49" />
+    <object className="car" x="396" y="460" width="133" height="98" />
+    <object className="car" x="235" y="476" width="57" height="41" />
+    <object className="car" x="32" y="477" width="90" height="59" />
+    <object className="car" x="951" y="431" width="237" height="165" />
+    <object className="car" x="501" y="469" width="82" height="61" />
+    <object className="sign" x="560" y="442" width="14" height="15" />
+    <object className="sign" x="834" y="399" width="21" height="30" />
+    <object className="sign" x="764" y="393" width="28" height="26" />
+    <object className="sign" x="762" y="367" width="29" height="24" />
+    <object className="sign" x="710" y="441" width="18" height="13" />
+    <object className="sign" x="481" y="441" width="14" height="15" />
+  </file>
+  <file path="180115_125222_00230.png" tags="" viewed="1">
+    <object className="car" x="882" y="452" width="259" height="114" />
+    <object className="car" x="365" y="462" width="137" height="107" />
+    <object className="car" x="247" y="475" width="53" height="41" />
+    <object className="car" x="0" y="480" width="64" height="65" />
+    <object className="car" x="577" y="470" width="41" height="35" />
+    <object className="car" x="1049" y="414" width="228" height="255" />
+    <object className="car" x="200" y="474" width="63" height="46" />
+    <object className="car" x="628" y="467" width="62" height="51" />
+    <object className="car" x="484" y="469" width="87" height="72" />
+    <object className="sign" x="469" y="441" width="17" height="19" />
+    <object className="sign" x="852" y="393" width="24" height="32" />
+    <object className="sign" x="772" y="356" width="34" height="29" />
+    <object className="sign" x="552" y="444" width="17" height="17" />
+    <object className="sign" x="712" y="441" width="18" height="18" />
+    <object className="sign" x="772" y="384" width="37" height="31" />
+  </file>
+  <file path="180115_125222_00240.png" tags="" viewed="1">
+    <object className="car" x="167" y="486" width="65" height="44" />
+    <object className="car" x="304" y="470" width="177" height="129" />
+    <object className="car" x="581" y="474" width="40" height="35" />
+    <object className="car" x="933" y="442" width="344" height="156" />
+    <object className="car" x="625" y="475" width="66" height="51" />
+    <object className="car" x="465" y="478" width="101" height="70" />
+    <object className="car" x="1075" y="437" width="201" height="206" />
+    <object className="car" x="218" y="485" width="54" height="40" />
+    <object className="sign" x="789" y="375" width="37" height="32" />
+    <object className="sign" x="788" y="344" width="33" height="25" />
+    <object className="sign" x="713" y="441" width="21" height="19" />
+    <object className="sign" x="876" y="383" width="25" height="37" />
+    <object className="sign" x="545" y="446" width="20" height="19" />
+    <object className="sign" x="456" y="441" width="20" height="20" />
+  </file>
+  <file path="180115_125222_00250.png" tags="" viewed="1">
+    <object className="car" x="756" y="434" width="96" height="53" />
+    <object className="car" x="229" y="440" width="217" height="148" />
+    <object className="car" x="1033" y="420" width="243" height="189" />
+    <object className="car" x="179" y="457" width="62" height="48" />
+    <object className="car" x="625" y="448" width="65" height="51" />
+    <object className="car" x="578" y="449" width="44" height="34" />
+    <object className="car" x="449" y="453" width="104" height="73" />
+    <object className="car" x="121" y="461" width="77" height="51" />
+    <object className="sign" x="906" y="348" width="30" height="41" />
+    <object className="sign" x="538" y="420" width="20" height="18" />
+    <object className="sign" x="805" y="292" width="45" height="41" />
+    <object className="sign" x="442" y="417" width="24" height="22" />
+    <object className="sign" x="717" y="415" width="22" height="18" />
+    <object className="sign" x="810" y="331" width="41" height="41" />
+  </file>
+  <file path="180115_125222_00260.png" tags="" viewed="1">
+    <object className="car" x="125" y="449" width="276" height="185" />
+    <object className="car" x="621" y="463" width="64" height="51" />
+    <object className="car" x="917" y="426" width="342" height="146" />
+    <object className="car" x="1129" y="401" width="148" height="232" />
+    <object className="car" x="580" y="464" width="41" height="31" />
+    <object className="car" x="763" y="446" width="109" height="54" />
+    <object className="car" x="73" y="471" width="79" height="54" />
+    <object className="car" x="432" y="463" width="113" height="82" />
+    <object className="car" x="1024" y="413" width="253" height="193" />
+    <object className="sign" x="429" y="427" width="22" height="20" />
+    <object className="sign" x="834" y="324" width="48" height="47" />
+    <object className="sign" x="833" y="278" width="52" height="43" />
+    <object className="sign" x="529" y="431" width="20" height="20" />
+    <object className="sign" x="717" y="427" width="25" height="22" />
+    <object className="sign" x="942" y="345" width="32" height="50" />
+  </file>
+  <file path="180115_125222_00270.png" tags="" viewed="1">
+    <object className="car" x="1149" y="413" width="127" height="235" />
+    <object className="car" x="576" y="462" width="40" height="36" />
+    <object className="car" x="375" y="468" width="35" height="25" />
+    <object className="car" x="983" y="398" width="294" height="210" />
+    <object className="car" x="762" y="448" width="127" height="56" />
+    <object className="car" x="410" y="463" width="121" height="86" />
+    <object className="car" x="612" y="462" width="69" height="55" />
+    <object className="car" x="6" y="443" width="342" height="238" />
+    <object className="sign" x="714" y="427" width="22" height="22" />
+    <object className="sign" x="861" y="295" width="62" height="54" />
+    <object className="sign" x="985" y="328" width="37" height="54" />
+    <object className="sign" x="410" y="423" width="21" height="24" />
+    <object className="sign" x="861" y="238" width="60" height="54" />
+    <object className="sign" x="517" y="429" width="22" height="21" />
+  </file>
+  <file path="180115_125222_00280.png" tags="" viewed="1">
+    <object className="car" x="574" y="459" width="38" height="35" />
+    <object className="car" x="610" y="460" width="64" height="53" />
+    <object className="car" x="397" y="457" width="129" height="92" />
+    <object className="car" x="5" y="440" width="286" height="272" />
+    <object className="car" x="771" y="446" width="154" height="63" />
+    <object className="car" x="1103" y="413" width="173" height="229" />
+    <object className="car" x="347" y="464" width="42" height="31" />
+    <object className="sign" x="714" y="421" width="24" height="23" />
+    <object className="sign" x="506" y="424" width="22" height="23" />
+    <object className="sign" x="913" y="254" width="70" height="67" />
+    <object className="sign" x="220" y="429" width="22" height="23" />
+    <object className="sign" x="1045" y="302" width="45" height="67" />
+    <object className="sign" x="912" y="183" width="76" height="66" />
+    <object className="sign" x="393" y="422" width="22" height="21" />
+  </file>
+  <file path="180115_125222_00290.png" tags="" viewed="1">
+    <object className="car" x="404" y="457" width="125" height="87" />
+    <object className="car" x="613" y="456" width="62" height="53" />
+    <object className="car" x="785" y="443" width="162" height="63" />
+    <object className="car" x="6" y="434" width="233" height="311" />
+    <object className="car" x="576" y="456" width="37" height="34" />
+    <object className="car" x="1155" y="429" width="121" height="184" />
+    <object className="car" x="324" y="463" width="40" height="29" />
+    <object className="sign" x="986" y="188" width="92" height="91" />
+    <object className="sign" x="500" y="422" width="21" height="20" />
+    <object className="sign" x="381" y="415" width="22" height="24" />
+    <object className="sign" x="200" y="427" width="25" height="25" />
+    <object className="sign" x="1126" y="266" width="48" height="80" />
+    <object className="sign" x="717" y="416" width="24" height="25" />
+    <object className="sign" x="974" y="94" width="98" height="87" />
+  </file>
+  <file path="180115_125222_00300.png" tags="" viewed="1">
+    <object className="car" x="578" y="458" width="41" height="31" />
+    <object className="car" x="413" y="459" width="121" height="79" />
+    <object className="car" x="608" y="454" width="69" height="55" />
+    <object className="car" x="293" y="459" width="54" height="36" />
+    <object className="car" x="789" y="439" width="177" height="74" />
+    <object className="car" x="5" y="433" width="186" height="316" />
+    <object className="sign" x="1234" y="214" width="44" height="105" />
+    <object className="sign" x="721" y="412" width="28" height="24" />
+    <object className="sign" x="496" y="418" width="21" height="23" />
+    <object className="sign" x="181" y="422" width="28" height="27" />
+    <object className="sign" x="1089" y="2" width="133" height="87" />
+    <object className="sign" x="1096" y="89" width="141" height="130" />
+    <object className="sign" x="365" y="409" width="26" height="30" />
+  </file>
+  <file path="180115_125222_00310.png" tags="" viewed="1">
+    <object className="car" x="254" y="459" width="65" height="41" />
+    <object className="car" x="586" y="456" width="34" height="35" />
+    <object className="car" x="794" y="439" width="204" height="76" />
+    <object className="car" x="426" y="453" width="114" height="81" />
+    <object className="car" x="6" y="438" width="170" height="307" />
+    <object className="car" x="612" y="454" width="66" height="52" />
+    <object className="sign" x="357" y="411" width="26" height="23" />
+    <object className="sign" x="488" y="415" width="26" height="25" />
+    <object className="sign" x="725" y="412" width="30" height="26" />
+    <object className="sign" x="166" y="421" width="25" height="26" />
+  </file>
+  <file path="180115_125222_00320.png" tags="" viewed="1">
+    <object className="car" x="617" y="467" width="65" height="59" />
+    <object className="car" x="4" y="457" width="180" height="326" />
+    <object className="car" x="446" y="470" width="108" height="75" />
+    <object className="car" x="214" y="476" width="67" height="44" />
+    <object className="car" x="810" y="451" width="212" height="81" />
+    <object className="sign" x="734" y="425" width="25" height="27" />
+    <object className="sign" x="152" y="438" width="26" height="24" />
+    <object className="sign" x="488" y="430" width="28" height="26" />
+    <object className="sign" x="350" y="424" width="25" height="24" />
+  </file>
+  <file path="180115_125508_00000.png" tags="" viewed="1">
+    <object className="person" x="900" y="445" width="30" height="78" />
+    <object className="person" x="1014" y="436" width="34" height="58" />
+    <object className="car" x="500" y="471" width="294" height="238" />
+    <object className="sign" x="896" y="140" width="57" height="48" />
+    <object className="sign" x="892" y="392" width="65" height="23" />
+    <object className="sign" x="892" y="240" width="58" height="54" />
+    <object className="sign" x="900" y="189" width="52" height="50" />
+    <object className="trafficlight" x="545" y="379" width="32" height="46" />
+    <object className="trafficlight" x="903" y="298" width="60" height="84" />
+  </file>
+  <file path="180115_125508_00010.png" tags="" viewed="1">
+    <object className="person" x="461" y="452" width="29" height="63" />
+    <object className="person" x="392" y="456" width="28" height="61" />
+    <object className="person" x="1028" y="431" width="28" height="56" />
+    <object className="person" x="894" y="441" width="44" height="78" />
+    <object className="car" x="454" y="474" width="372" height="295" />
+    <object className="sign" x="913" y="172" width="53" height="46" />
+    <object className="sign" x="904" y="224" width="70" height="52" />
+    <object className="sign" x="912" y="114" width="61" height="50" />
+    <object className="sign" x="909" y="383" width="66" height="25" />
+    <object className="trafficlight" x="922" y="287" width="59" height="88" />
+    <object className="trafficlight" x="537" y="371" width="35" height="50" />
+  </file>
+  <file path="180115_125508_00020.png" tags="" viewed="1">
+    <object className="person" x="428" y="450" width="31" height="65" />
+    <object className="person" x="904" y="445" width="36" height="82" />
+    <object className="person" x="1035" y="434" width="38" height="53" />
+    <object className="car" x="426" y="474" width="430" height="343" />
+    <object className="sign" x="933" y="155" width="58" height="51" />
+    <object className="sign" x="925" y="211" width="66" height="61" />
+    <object className="sign" x="929" y="98" width="65" height="49" />
+    <object className="sign" x="918" y="383" width="78" height="25" />
+    <object className="trafficlight" x="939" y="280" width="75" height="94" />
+    <object className="trafficlight" x="539" y="371" width="37" height="51" />
+  </file>
+  <file path="180115_125508_00030.png" tags="" viewed="1">
+    <object className="person" x="1059" y="436" width="23" height="53" />
+    <object className="person" x="905" y="444" width="48" height="81" />
+    <object className="person" x="333" y="457" width="23" height="66" />
+    <object className="person" x="403" y="457" width="34" height="65" />
+    <object className="car" x="400" y="479" width="488" height="362" />
+    <object className="sign" x="937" y="200" width="70" height="66" />
+    <object className="sign" x="942" y="144" width="64" height="51" />
+    <object className="sign" x="934" y="381" width="80" height="27" />
+    <object className="sign" x="942" y="84" width="69" height="51" />
+    <object className="trafficlight" x="541" y="374" width="37" height="47" />
+    <object className="trafficlight" x="955" y="270" width="75" height="101" />
+  </file>
+  <file path="180115_125508_00040.png" tags="" viewed="1">
+    <object className="person" x="300" y="459" width="28" height="64" />
+    <object className="person" x="1059" y="436" width="28" height="54" />
+    <object className="person" x="380" y="459" width="27" height="64" />
+    <object className="person" x="910" y="445" width="41" height="76" />
+    <object className="car" x="374" y="479" width="536" height="381" />
+    <object className="bus" x="1198" y="391" width="79" height="121" />
+    <object className="sign" x="952" y="195" width="72" height="67" />
+    <object className="sign" x="960" y="135" width="61" height="61" />
+    <object className="sign" x="957" y="73" width="65" height="60" />
+    <object className="sign" x="945" y="382" width="82" height="25" />
+    <object className="trafficlight" x="966" y="269" width="78" height="100" />
+    <object className="trafficlight" x="542" y="370" width="37" height="48" />
+  </file>
+  <file path="180115_125508_00050.png" tags="" viewed="1">
+    <object className="person" x="347" y="458" width="32" height="63" />
+    <object className="person" x="272" y="463" width="27" height="61" />
+    <object className="person" x="917" y="445" width="42" height="74" />
+    <object className="person" x="1061" y="434" width="27" height="56" />
+    <object className="car" x="354" y="484" width="566" height="387" />
+    <object className="bus" x="1178" y="398" width="98" height="112" />
+    <object className="sign" x="966" y="132" width="61" height="55" />
+    <object className="sign" x="952" y="380" width="85" height="30" />
+    <object className="sign" x="956" y="193" width="72" height="66" />
+    <object className="sign" x="958" y="67" width="76" height="63" />
+    <object className="trafficlight" x="974" y="265" width="79" height="107" />
+    <object className="trafficlight" x="541" y="373" width="40" height="51" />
+  </file>
+  <file path="180115_125508_00060.png" tags="" viewed="1">
+    <object className="person" x="318" y="456" width="42" height="71" />
+    <object className="person" x="237" y="461" width="36" height="68" />
+    <object className="person" x="929" y="447" width="34" height="74" />
+    <object className="person" x="1059" y="438" width="28" height="58" />
+    <object className="car" x="361" y="482" width="565" height="388" />
+    <object className="bus" x="1149" y="391" width="127" height="131" />
+    <object className="sign" x="961" y="192" width="72" height="68" />
+    <object className="sign" x="964" y="67" width="76" height="60" />
+    <object className="sign" x="957" y="382" width="82" height="25" />
+    <object className="sign" x="968" y="133" width="65" height="58" />
+    <object className="trafficlight" x="542" y="375" width="40" height="48" />
+    <object className="trafficlight" x="980" y="262" width="68" height="103" />
+  </file>
+  <file path="180115_125508_00070.png" tags="" viewed="1">
+    <object className="person" x="941" y="439" width="37" height="79" />
+    <object className="person" x="1047" y="431" width="38" height="61" />
+    <object className="person" x="293" y="463" width="38" height="66" />
+    <object className="person" x="208" y="466" width="40" height="64" />
+    <object className="car" x="378" y="481" width="536" height="388" />
+    <object className="bus" x="1118" y="390" width="158" height="131" />
+    <object className="sign" x="962" y="190" width="74" height="74" />
+    <object className="sign" x="961" y="71" width="80" height="60" />
+    <object className="sign" x="965" y="128" width="69" height="64" />
+    <object className="sign" x="957" y="380" width="82" height="34" />
+    <object className="trafficlight" x="985" y="267" width="71" height="102" />
+    <object className="trafficlight" x="547" y="371" width="34" height="56" />
+  </file>
+  <file path="180115_125811_00000.png" tags="" viewed="1">
+    <object className="person" x="972" y="436" width="29" height="86" />
+    <object className="person" x="582" y="460" width="24" height="60" />
+    <object className="car" x="418" y="446" width="89" height="71" />
+    <object className="car" x="533" y="458" width="78" height="50" />
+    <object className="car" x="601" y="464" width="148" height="134" />
+    <object className="sign" x="825" y="434" width="17" height="44" />
+    <object className="sign" x="370" y="326" width="25" height="29" />
+    <object className="sign" x="822" y="415" width="21" height="20" />
+    <object className="sign" x="661" y="420" width="18" height="19" />
+    <object className="sign" x="834" y="405" width="24" height="19" />
+    <object className="sign" x="769" y="387" width="32" height="30" />
+  </file>
+  <file path="180115_125811_00010.png" tags="" viewed="1">
+    <object className="person" x="598" y="451" width="25" height="57" />
+    <object className="person" x="306" y="438" width="22" height="73" />
+    <object className="person" x="994" y="429" width="37" height="92" />
+    <object className="car" x="592" y="459" width="164" height="146" />
+    <object className="car" x="370" y="444" width="104" height="80" />
+    <object className="car" x="505" y="454" width="101" height="57" />
+    <object className="sign" x="658" y="416" width="17" height="15" />
+    <object className="sign" x="836" y="428" width="16" height="47" />
+    <object className="sign" x="337" y="306" width="29" height="36" />
+    <object className="sign" x="848" y="393" width="25" height="24" />
+    <object className="sign" x="832" y="408" width="25" height="18" />
+    <object className="sign" x="777" y="371" width="32" height="36" />
+  </file>
+  <file path="180115_125811_00020.png" tags="" viewed="1">
+    <object className="person" x="276" y="431" width="30" height="75" />
+    <object className="person" x="1025" y="420" width="38" height="102" />
+    <object className="car" x="578" y="456" width="182" height="148" />
+    <object className="car" x="469" y="447" width="109" height="64" />
+    <object className="car" x="310" y="437" width="116" height="95" />
+    <object className="sign" x="838" y="394" width="26" height="25" />
+    <object className="sign" x="856" y="383" width="28" height="24" />
+    <object className="sign" x="298" y="286" width="36" height="37" />
+    <object className="sign" x="785" y="356" width="38" height="37" />
+    <object className="sign" x="657" y="407" width="17" height="18" />
+    <object className="sign" x="845" y="419" width="20" height="54" />
+  </file>
+  <file path="180115_125811_00030.png" tags="" viewed="1">
+    <object className="person" x="1052" y="420" width="49" height="114" />
+    <object className="car" x="200" y="435" width="168" height="123" />
+    <object className="car" x="436" y="450" width="122" height="72" />
+    <object className="car" x="569" y="459" width="198" height="169" />
+    <object className="sign" x="866" y="380" width="29" height="24" />
+    <object className="sign" x="852" y="394" width="25" height="23" />
+    <object className="sign" x="653" y="407" width="20" height="20" />
+    <object className="sign" x="857" y="416" width="18" height="55" />
+    <object className="sign" x="266" y="274" width="34" height="37" />
+    <object className="sign" x="796" y="348" width="41" height="43" />
+  </file>
+  <file path="180115_125811_00040.png" tags="" viewed="1">
+    <object className="person" x="1092" y="422" width="54" height="122" />
+    <object className="car" x="6" y="427" width="245" height="179" />
+    <object className="car" x="558" y="465" width="221" height="177" />
+    <object className="car" x="406" y="454" width="128" height="68" />
+    <object className="sign" x="813" y="338" width="45" height="47" />
+    <object className="sign" x="653" y="407" width="25" height="20" />
+    <object className="sign" x="225" y="260" width="42" height="40" />
+    <object className="sign" x="869" y="416" width="24" height="60" />
+    <object className="sign" x="882" y="376" width="29" height="27" />
+    <object className="sign" x="864" y="391" width="32" height="27" />
+  </file>
+  <file path="180115_125811_00050.png" tags="" viewed="1">
+    <object className="person" x="214" y="432" width="44" height="106" />
+    <object className="person" x="1130" y="420" width="54" height="138" />
+    <object className="person" x="172" y="434" width="28" height="78" />
+    <object className="car" x="548" y="458" width="250" height="213" />
+    <object className="car" x="384" y="452" width="141" height="80" />
+    <object className="car" x="537" y="451" width="108" height="69" />
+    <object className="sign" x="898" y="371" width="30" height="26" />
+    <object className="sign" x="832" y="326" width="50" height="48" />
+    <object className="sign" x="886" y="416" width="24" height="64" />
+    <object className="sign" x="880" y="387" width="32" height="30" />
+    <object className="sign" x="653" y="406" width="25" height="22" />
+    <object className="sign" x="192" y="241" width="44" height="46" />
+  </file>
+  <file path="180115_125811_00060.png" tags="" viewed="1">
+    <object className="person" x="213" y="435" width="58" height="110" />
+    <object className="person" x="124" y="434" width="48" height="88" />
+    <object className="person" x="1165" y="415" width="60" height="148" />
+    <object className="person" x="781" y="447" width="54" height="109" />
+    <object className="car" x="532" y="465" width="288" height="234" />
+    <object className="car" x="356" y="452" width="164" height="89" />
+    <object className="car" x="528" y="451" width="116" height="73" />
+    <object className="car" x="823" y="453" width="57" height="43" />
+    <object className="truck" x="1039" y="433" width="59" height="58" />
+    <object className="sign" x="660" y="407" width="18" height="22" />
+    <object className="sign" x="156" y="231" width="45" height="39" />
+    <object className="sign" x="916" y="367" width="33" height="31" />
+    <object className="sign" x="900" y="384" width="32" height="29" />
+    <object className="sign" x="853" y="313" width="53" height="52" />
+    <object className="sign" x="905" y="412" width="21" height="66" />
+  </file>
+  <file path="180115_125811_00070.png" tags="" viewed="1">
+    <object className="person" x="846" y="444" width="49" height="117" />
+    <object className="person" x="96" y="432" width="40" height="105" />
+    <object className="person" x="222" y="433" width="52" height="123" />
+    <object className="person" x="1185" y="413" width="70" height="159" />
+    <object className="car" x="525" y="466" width="316" height="253" />
+    <object className="car" x="330" y="451" width="180" height="93" />
+    <object className="car" x="522" y="450" width="124" height="86" />
+    <object className="car" x="1113" y="454" width="57" height="39" />
+    <object className="truck" x="1030" y="431" width="81" height="66" />
+    <object className="sign" x="873" y="297" width="57" height="67" />
+    <object className="sign" x="920" y="409" width="26" height="75" />
+    <object className="sign" x="661" y="404" width="22" height="23" />
+    <object className="sign" x="124" y="209" width="46" height="51" />
+    <object className="sign" x="910" y="380" width="37" height="33" />
+    <object className="sign" x="934" y="360" width="29" height="37" />
+  </file>
+  <file path="180115_125811_00080.png" tags="" viewed="1">
+    <object className="person" x="88" y="440" width="54" height="107" />
+    <object className="person" x="1209" y="414" width="61" height="164" />
+    <object className="person" x="913" y="440" width="49" height="127" />
+    <object className="person" x="241" y="432" width="48" height="131" />
+    <object className="car" x="310" y="450" width="188" height="103" />
+    <object className="car" x="1113" y="456" width="52" height="34" />
+    <object className="car" x="518" y="466" width="345" height="300" />
+    <object className="car" x="516" y="453" width="130" height="84" />
+    <object className="car" x="835" y="456" width="57" height="38" />
+    <object className="car" x="1169" y="456" width="54" height="39" />
+    <object className="truck" x="1014" y="433" width="100" height="67" />
+    <object className="sign" x="893" y="290" width="56" height="63" />
+    <object className="sign" x="926" y="379" width="33" height="27" />
+    <object className="sign" x="89" y="197" width="49" height="51" />
+    <object className="sign" x="948" y="358" width="32" height="36" />
+    <object className="sign" x="661" y="403" width="21" height="26" />
+    <object className="sign" x="937" y="408" width="22" height="73" />
+  </file>
+  <file path="180115_125811_00090.png" tags="" viewed="1">
+    <object className="person" x="1218" y="410" width="58" height="185" />
+    <object className="person" x="113" y="442" width="50" height="119" />
+    <object className="person" x="268" y="433" width="58" height="147" />
+    <object className="person" x="968" y="437" width="62" height="146" />
+    <object className="car" x="502" y="467" width="378" height="317" />
+    <object className="car" x="506" y="454" width="148" height="92" />
+    <object className="car" x="290" y="450" width="194" height="112" />
+    <object className="car" x="839" y="459" width="59" height="43" />
+    <object className="car" x="1128" y="454" width="59" height="38" />
+    <object className="truck" x="994" y="429" width="116" height="77" />
+    <object className="sign" x="661" y="406" width="24" height="23" />
+    <object className="sign" x="957" y="357" width="34" height="37" />
+    <object className="sign" x="945" y="409" width="28" height="80" />
+    <object className="sign" x="937" y="377" width="32" height="32" />
+    <object className="sign" x="60" y="186" width="44" height="47" />
+    <object className="sign" x="908" y="269" width="75" height="79" />
+  </file>
+  <file path="180115_125839_00000.png" tags="" viewed="1">
+    <object className="car" x="285" y="458" width="141" height="97" />
+    <object className="car" x="428" y="451" width="57" height="58" />
+    <object className="car" x="466" y="456" width="65" height="68" />
+    <object className="car" x="541" y="468" width="100" height="75" />
+    <object className="car" x="664" y="468" width="129" height="99" />
+    <object className="car" x="162" y="458" width="98" height="59" />
+    <object className="sign" x="870" y="289" width="57" height="53" />
+    <object className="sign" x="873" y="343" width="50" height="27" />
+    <object className="sign" x="806" y="363" width="34" height="30" />
+    <object className="sign" x="281" y="395" width="33" height="32" />
+  </file>
+  <file path="180115_125839_00010.png" tags="" viewed="1">
+    <object className="car" x="448" y="466" width="64" height="53" />
+    <object className="car" x="642" y="473" width="117" height="93" />
+    <object className="car" x="509" y="470" width="94" height="79" />
+    <object className="car" x="408" y="457" width="54" height="58" />
+    <object className="car" x="270" y="457" width="141" height="102" />
+    <object className="truck" x="214" y="443" width="84" height="71" />
+    <object className="sign" x="786" y="355" width="34" height="34" />
+    <object className="sign" x="877" y="322" width="54" height="29" />
+    <object className="sign" x="873" y="262" width="62" height="61" />
+    <object className="sign" x="221" y="400" width="33" height="30" />
+  </file>
+  <file path="180115_125839_00020.png" tags="" viewed="1">
+    <object className="car" x="524" y="475" width="90" height="75" />
+    <object className="car" x="654" y="474" width="112" height="84" />
+    <object className="car" x="432" y="464" width="56" height="52" />
+    <object className="car" x="469" y="472" width="57" height="58" />
+    <object className="car" x="297" y="466" width="140" height="94" />
+    <object className="truck" x="4" y="129" width="220" height="705" />
+    <object className="sign" x="934" y="218" width="76" height="74" />
+    <object className="sign" x="941" y="294" width="68" height="39" />
+    <object className="sign" x="201" y="400" width="34" height="31" />
+    <object className="sign" x="814" y="353" width="37" height="33" />
+  </file>
+  <file path="180115_125839_00030.png" tags="" viewed="1">
+    <object className="car" x="385" y="473" width="134" height="86" />
+    <object className="car" x="657" y="468" width="57" height="50" />
+    <object className="car" x="540" y="470" width="64" height="55" />
+    <object className="car" x="508" y="467" width="58" height="49" />
+    <object className="car" x="597" y="474" width="82" height="78" />
+    <object className="car" x="726" y="476" width="100" height="81" />
+    <object className="truck" x="5" y="154" width="344" height="679" />
+    <object className="sign" x="1100" y="144" width="98" height="87" />
+    <object className="sign" x="902" y="338" width="38" height="36" />
+    <object className="sign" x="1105" y="234" width="90" height="49" />
+  </file>
+  <file path="180115_125839_00040.png" tags="" viewed="1">
+    <object className="car" x="629" y="473" width="61" height="61" />
+    <object className="car" x="594" y="468" width="50" height="50" />
+    <object className="car" x="506" y="467" width="100" height="88" />
+    <object className="car" x="809" y="480" width="96" height="68" />
+    <object className="car" x="684" y="482" width="85" height="65" />
+    <object className="car" x="740" y="471" width="48" height="46" />
+    <object className="truck" x="8" y="30" width="505" height="818" />
+    <object className="sign" x="1013" y="321" width="46" height="38" />
+  </file>
+  <file path="180115_125839_00050.png" tags="" viewed="1">
+    <object className="car" x="777" y="460" width="50" height="48" />
+    <object className="car" x="850" y="469" width="88" height="64" />
+    <object className="car" x="666" y="465" width="66" height="52" />
+    <object className="car" x="726" y="470" width="85" height="71" />
+    <object className="truck" x="1" y="14" width="654" height="845" />
+    <object className="sign" x="1098" y="281" width="58" height="45" />
+  </file>
+  <file path="180115_125839_00060.png" tags="" viewed="1">
+    <object className="car" x="716" y="459" width="48" height="58" />
+    <object className="car" x="756" y="466" width="85" height="67" />
+    <object className="car" x="876" y="459" width="80" height="67" />
+    <object className="truck" x="2" y="66" width="740" height="801" />
+    <object className="sign" x="1194" y="236" width="61" height="57" />
+  </file>
+  <file path="180115_125839_00070.png" tags="" viewed="1">
+    <object className="person" x="1064" y="446" width="34" height="66" />
+    <object className="person" x="1107" y="453" width="28" height="59" />
+    <object className="car" x="798" y="470" width="65" height="65" />
+    <object className="car" x="889" y="466" width="78" height="61" />
+    <object className="truck" x="5" y="102" width="813" height="744" />
+  </file>
+  <file path="180115_125839_00080.png" tags="" viewed="1">
+    <object className="person" x="1068" y="448" width="28" height="66" />
+    <object className="person" x="1111" y="449" width="38" height="68" />
+    <object className="car" x="868" y="467" width="70" height="53" />
+    <object className="truck" x="106" y="124" width="764" height="731" />
+  </file>
+  <file path="180115_125839_00090.png" tags="" viewed="1">
+    <object className="person" x="1061" y="448" width="32" height="71" />
+    <object className="person" x="999" y="449" width="28" height="54" />
+    <object className="person" x="1120" y="446" width="38" height="76" />
+    <object className="truck" x="198" y="152" width="701" height="690" />
+  </file>
+  <file path="180115_125839_00100.png" tags="" viewed="1">
+    <object className="person" x="1149" y="436" width="46" height="94" />
+    <object className="person" x="1076" y="441" width="42" height="78" />
+    <object className="truck" x="1" y="444" width="165" height="112" />
+    <object className="truck" x="233" y="159" width="698" height="673" />
+  </file>
+  <file path="180115_125839_00110.png" tags="" viewed="1">
+    <object className="person" x="1116" y="436" width="36" height="101" />
+    <object className="person" x="1213" y="431" width="48" height="106" />
+    <object className="car" x="123" y="492" width="108" height="58" />
+    <object className="car" x="229" y="486" width="79" height="58" />
+    <object className="truck" x="272" y="178" width="678" height="637" />
+  </file>
+  <file path="180115_125936_00000.png" tags="" viewed="1">
+    <object className="car" x="756" y="431" width="42" height="28" />
+    <object className="car" x="954" y="421" width="77" height="36" />
+    <object className="car" x="256" y="460" width="200" height="125" />
+    <object className="car" x="135" y="463" width="63" height="46" />
+    <object className="car" x="55" y="472" width="67" height="48" />
+    <object className="truck" x="460" y="397" width="109" height="130" />
+    <object className="truck" x="592" y="377" width="141" height="152" />
+    <object className="bus" x="219" y="429" width="102" height="71" />
+    <object className="sign" x="944" y="362" width="36" height="18" />
+    <object className="sign" x="941" y="340" width="38" height="17" />
+    <object className="sign" x="941" y="383" width="41" height="18" />
+    <object className="sign" x="936" y="302" width="40" height="36" />
+    <object className="sign" x="834" y="323" width="41" height="36" />
+  </file>
+  <file path="180115_125936_00010.png" tags="" viewed="1">
+    <object className="car" x="4" y="467" width="102" height="176" />
+    <object className="car" x="262" y="454" width="208" height="135" />
+    <object className="car" x="750" y="431" width="44" height="31" />
+    <object className="car" x="821" y="432" width="62" height="37" />
+    <object className="truck" x="468" y="401" width="105" height="126" />
+    <object className="truck" x="593" y="383" width="140" height="154" />
+    <object className="bus" x="84" y="436" width="142" height="82" />
+    <object className="sign" x="1017" y="370" width="58" height="23" />
+    <object className="sign" x="1017" y="344" width="48" height="24" />
+    <object className="sign" x="864" y="310" width="44" height="42" />
+    <object className="sign" x="1016" y="266" width="48" height="47" />
+    <object className="sign" x="1017" y="315" width="49" height="26" />
+  </file>
+  <file path="180115_125936_00020.png" tags="" viewed="1">
+    <object className="car" x="285" y="462" width="190" height="121" />
+    <object className="car" x="4" y="456" width="141" height="166" />
+    <object className="car" x="219" y="444" width="98" height="78" />
+    <object className="car" x="814" y="440" width="58" height="35" />
+    <object className="car" x="1005" y="427" width="94" height="41" />
+    <object className="car" x="741" y="436" width="54" height="33" />
+    <object className="truck" x="469" y="405" width="101" height="119" />
+    <object className="truck" x="592" y="384" width="141" height="150" />
+    <object className="sign" x="1161" y="267" width="69" height="31" />
+    <object className="sign" x="1156" y="200" width="70" height="62" />
+    <object className="sign" x="1162" y="305" width="64" height="30" />
+    <object className="sign" x="1166" y="343" width="64" height="30" />
+    <object className="sign" x="906" y="294" width="42" height="40" />
+  </file>
+  <file path="180115_125936_00030.png" tags="" viewed="1">
+    <object className="car" x="301" y="463" width="180" height="122" />
+    <object className="car" x="742" y="443" width="45" height="32" />
+    <object className="car" x="194" y="468" width="73" height="54" />
+    <object className="car" x="1" y="451" width="194" height="168" />
+    <object className="car" x="1040" y="431" width="106" height="48" />
+    <object className="car" x="805" y="447" width="60" height="34" />
+    <object className="truck" x="472" y="407" width="104" height="124" />
+    <object className="truck" x="593" y="383" width="140" height="154" />
+    <object className="sign" x="960" y="263" width="58" height="52" />
+    <object className="sign" x="933" y="387" width="28" height="17" />
+    <object className="sign" x="930" y="339" width="30" height="32" />
+    <object className="sign" x="933" y="373" width="28" height="13" />
+  </file>
+  <file path="180115_125941_00000.png" tags="" viewed="1">
+    <object className="car" x="330" y="462" width="97" height="83" />
+    <object className="car" x="360" y="475" width="152" height="100" />
+    <object className="car" x="204" y="482" width="75" height="48" />
+    <object className="car" x="1058" y="458" width="170" height="87" />
+    <object className="car" x="770" y="466" width="52" height="40" />
+    <object className="car" x="54" y="492" width="90" height="53" />
+    <object className="car" x="156" y="489" width="54" height="38" />
+    <object className="truck" x="581" y="397" width="153" height="161" />
+    <object className="truck" x="516" y="424" width="81" height="110" />
+    <object className="sign" x="942" y="400" width="26" height="19" />
+    <object className="sign" x="942" y="418" width="24" height="11" />
+  </file>
+  <file path="180115_125941_00010.png" tags="" viewed="1">
+    <object className="car" x="1046" y="458" width="170" height="90" />
+    <object className="car" x="25" y="484" width="42" height="44" />
+    <object className="car" x="764" y="460" width="48" height="39" />
+    <object className="car" x="362" y="468" width="137" height="93" />
+    <object className="car" x="67" y="474" width="109" height="69" />
+    <object className="car" x="208" y="474" width="94" height="59" />
+    <object className="truck" x="512" y="418" width="89" height="108" />
+    <object className="truck" x="585" y="392" width="145" height="156" />
+    <object className="sign" x="841" y="409" width="20" height="19" />
+    <object className="sign" x="968" y="383" width="28" height="24" />
+    <object className="sign" x="970" y="408" width="24" height="13" />
+  </file>
+  <file path="180115_125941_00020.png" tags="" viewed="1">
+    <object className="car" x="289" y="477" width="71" height="46" />
+    <object className="car" x="1" y="482" width="135" height="89" />
+    <object className="car" x="354" y="474" width="123" height="94" />
+    <object className="car" x="756" y="469" width="46" height="36" />
+    <object className="car" x="1030" y="459" width="163" height="91" />
+    <object className="truck" x="576" y="408" width="152" height="152" />
+    <object className="truck" x="511" y="426" width="77" height="111" />
+    <object className="sign" x="848" y="407" width="22" height="19" />
+    <object className="sign" x="997" y="374" width="40" height="25" />
+    <object className="sign" x="1005" y="399" width="28" height="15" />
+  </file>
+  <file path="180115_125941_00030.png" tags="" viewed="1">
+    <object className="car" x="329" y="469" width="126" height="89" />
+    <object className="car" x="152" y="484" width="108" height="63" />
+    <object className="car" x="1004" y="459" width="174" height="98" />
+    <object className="car" x="418" y="460" width="82" height="67" />
+    <object className="car" x="736" y="464" width="52" height="36" />
+    <object className="truck" x="506" y="421" width="84" height="108" />
+    <object className="truck" x="573" y="394" width="152" height="159" />
+    <object className="sign" x="1052" y="362" width="34" height="25" />
+    <object className="sign" x="477" y="423" width="21" height="19" />
+    <object className="sign" x="1054" y="389" width="26" height="16" />
+    <object className="sign" x="860" y="406" width="18" height="19" />
+  </file>
+  <file path="180115_125941_00040.png" tags="" viewed="1">
+    <object className="car" x="320" y="471" width="125" height="83" />
+    <object className="car" x="102" y="486" width="54" height="39" />
+    <object className="car" x="163" y="482" width="106" height="64" />
+    <object className="car" x="426" y="461" width="84" height="65" />
+    <object className="car" x="993" y="459" width="172" height="105" />
+    <object className="car" x="733" y="462" width="45" height="42" />
+    <object className="truck" x="580" y="400" width="146" height="160" />
+    <object className="truck" x="504" y="425" width="89" height="103" />
+    <object className="sign" x="1122" y="377" width="34" height="15" />
+    <object className="sign" x="816" y="318" width="20" height="19" />
+    <object className="sign" x="874" y="399" width="25" height="21" />
+    <object className="sign" x="1122" y="343" width="34" height="33" />
+  </file>
+  <file path="180115_125941_00050.png" tags="" viewed="1">
+    <object className="car" x="725" y="457" width="48" height="42" />
+    <object className="car" x="974" y="448" width="185" height="112" />
+    <object className="car" x="322" y="462" width="121" height="91" />
+    <object className="car" x="438" y="456" width="77" height="64" />
+    <object className="truck" x="15" y="421" width="123" height="114" />
+    <object className="truck" x="221" y="428" width="125" height="102" />
+    <object className="truck" x="581" y="386" width="149" height="167" />
+    <object className="truck" x="509" y="417" width="82" height="105" />
+    <object className="sign" x="438" y="408" width="25" height="20" />
+    <object className="sign" x="829" y="298" width="22" height="21" />
+    <object className="sign" x="1218" y="349" width="48" height="21" />
+    <object className="sign" x="1221" y="305" width="44" height="43" />
+    <object className="sign" x="892" y="386" width="26" height="23" />
+  </file>
+  <file path="180115_125941_00060.png" tags="" viewed="1">
+    <object className="car" x="453" y="461" width="72" height="57" />
+    <object className="car" x="724" y="461" width="44" height="41" />
+    <object className="car" x="956" y="459" width="174" height="104" />
+    <object className="car" x="326" y="471" width="110" height="78" />
+    <object className="truck" x="44" y="419" width="171" height="122" />
+    <object className="truck" x="585" y="393" width="149" height="162" />
+    <object className="truck" x="514" y="423" width="76" height="105" />
+    <object className="sign" x="414" y="408" width="25" height="26" />
+    <object className="sign" x="916" y="384" width="24" height="22" />
+    <object className="sign" x="842" y="286" width="24" height="22" />
+  </file>
+  <file path="180115_125941_00070.png" tags="" viewed="1">
+    <object className="car" x="468" y="452" width="60" height="57" />
+    <object className="car" x="334" y="466" width="114" height="73" />
+    <object className="car" x="235" y="474" width="88" height="56" />
+    <object className="car" x="942" y="456" width="166" height="103" />
+    <object className="car" x="63" y="481" width="104" height="51" />
+    <object className="car" x="732" y="456" width="34" height="37" />
+    <object className="truck" x="585" y="387" width="149" height="164" />
+    <object className="truck" x="514" y="421" width="78" height="99" />
+    <object className="sign" x="865" y="282" width="20" height="9" />
+    <object className="sign" x="864" y="258" width="22" height="23" />
+    <object className="sign" x="382" y="399" width="28" height="24" />
+    <object className="sign" x="946" y="368" width="22" height="26" />
+  </file>
+  <file path="180115_125941_00080.png" tags="" viewed="1">
+    <object className="car" x="48" y="486" width="135" height="71" />
+    <object className="car" x="237" y="481" width="57" height="39" />
+    <object className="car" x="354" y="466" width="98" height="77" />
+    <object className="car" x="478" y="454" width="58" height="60" />
+    <object className="car" x="918" y="457" width="166" height="105" />
+    <object className="truck" x="512" y="422" width="77" height="97" />
+    <object className="truck" x="593" y="394" width="144" height="163" />
+    <object className="sign" x="342" y="395" width="32" height="27" />
+    <object className="sign" x="977" y="362" width="30" height="27" />
+    <object className="sign" x="886" y="237" width="30" height="21" />
+    <object className="sign" x="892" y="262" width="21" height="15" />
+  </file>
+  <file path="180115_125941_00090.png" tags="" viewed="1">
+    <object className="car" x="369" y="460" width="92" height="63" />
+    <object className="car" x="285" y="466" width="73" height="49" />
+    <object className="car" x="156" y="474" width="65" height="44" />
+    <object className="car" x="898" y="447" width="170" height="106" />
+    <object className="truck" x="517" y="416" width="73" height="97" />
+    <object className="truck" x="594" y="386" width="148" height="151" />
+    <object className="sign" x="1022" y="337" width="36" height="32" />
+    <object className="sign" x="293" y="377" width="36" height="34" />
+    <object className="sign" x="917" y="193" width="32" height="29" />
+    <object className="sign" x="916" y="223" width="32" height="16" />
+  </file>
+  <file path="180115_125941_00100.png" tags="" viewed="1">
+    <object className="car" x="384" y="461" width="86" height="65" />
+    <object className="car" x="285" y="471" width="34" height="33" />
+    <object className="car" x="34" y="482" width="100" height="54" />
+    <object className="car" x="885" y="457" width="162" height="97" />
+    <object className="car" x="154" y="477" width="96" height="58" />
+    <object className="truck" x="518" y="421" width="73" height="94" />
+    <object className="truck" x="596" y="391" width="145" height="153" />
+    <object className="sign" x="232" y="368" width="36" height="36" />
+    <object className="sign" x="1082" y="325" width="40" height="33" />
+    <object className="sign" x="962" y="189" width="34" height="16" />
+    <object className="sign" x="960" y="156" width="34" height="32" />
+  </file>
+  <file path="180115_125941_00110.png" tags="" viewed="1">
+    <object className="car" x="872" y="461" width="150" height="101" />
+    <object className="car" x="36" y="471" width="119" height="73" />
+    <object className="car" x="392" y="466" width="84" height="61" />
+    <object className="car" x="250" y="468" width="48" height="48" />
+    <object className="car" x="291" y="463" width="77" height="54" />
+    <object className="truck" x="521" y="432" width="70" height="87" />
+    <object className="truck" x="597" y="396" width="141" height="157" />
+    <object className="sign" x="1169" y="302" width="42" height="38" />
+    <object className="sign" x="1024" y="138" width="36" height="23" />
+    <object className="sign" x="141" y="356" width="45" height="43" />
+    <object className="sign" x="1021" y="96" width="40" height="40" />
+  </file>
+  <file path="180115_125941_00120.png" tags="" viewed="1">
+    <object className="car" x="169" y="466" width="113" height="69" />
+    <object className="car" x="853" y="460" width="157" height="102" />
+    <object className="car" x="405" y="466" width="80" height="55" />
+    <object className="truck" x="521" y="428" width="73" height="91" />
+    <object className="truck" x="594" y="395" width="145" height="161" />
+    <object className="sign" x="1108" y="0" width="58" height="47" />
+    <object className="sign" x="1112" y="52" width="50" height="26" />
+    <object className="sign" x="4" y="322" width="54" height="59" />
+  </file>
+  <file path="180115_125941_00130.png" tags="" viewed="1">
+    <object className="car" x="3" y="468" width="117" height="96" />
+    <object className="car" x="841" y="460" width="154" height="100" />
+    <object className="car" x="414" y="469" width="73" height="52" />
+    <object className="truck" x="593" y="397" width="137" height="151" />
+    <object className="truck" x="522" y="434" width="68" height="84" />
+  </file>
+  <file path="180115_125941_00140.png" tags="" viewed="1">
+    <object className="car" x="108" y="489" width="88" height="49" />
+    <object className="car" x="223" y="477" width="96" height="59" />
+    <object className="car" x="833" y="468" width="146" height="91" />
+    <object className="car" x="428" y="473" width="73" height="47" />
+    <object className="truck" x="588" y="397" width="138" height="151" />
+    <object className="truck" x="517" y="433" width="73" height="87" />
+  </file>
+  <file path="180115_125941_00150.png" tags="" viewed="1">
+    <object className="car" x="832" y="462" width="141" height="99" />
+    <object className="car" x="351" y="477" width="54" height="43" />
+    <object className="car" x="59" y="484" width="133" height="71" />
+    <object className="car" x="437" y="474" width="70" height="48" />
+    <object className="car" x="264" y="484" width="54" height="38" />
+    <object className="truck" x="521" y="437" width="68" height="89" />
+    <object className="truck" x="589" y="403" width="132" height="145" />
+  </file>
+</list>
