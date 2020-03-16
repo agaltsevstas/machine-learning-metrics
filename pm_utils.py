@@ -99,7 +99,7 @@ def intersection(a,b):
     if w<0 or h<0: return (0,0,0,0) 
     return (x, y, w, h)
 
-def same(o1, o2, T=0.7):
+def intersection_over_union(o1, o2, T=0.7):
     if o1[4] != o2[4]:
         return False
     I = intersection(o1, o2)
