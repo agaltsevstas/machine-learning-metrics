@@ -13,7 +13,6 @@ import tkinter as tk
 from tkinter import filedialog, messagebox
 import matplotlib.pyplot as plt
 import pm_utils as pm
-from sklearn.metrics import precision_recall_fscore_support, accuracy_score
 
 # Метрики для обнаружения объектов
 class Metrics:
@@ -123,13 +122,13 @@ class Application(tk.Frame):
         self.label_second.grid(row=1, column=1, sticky="nsew")
         self.list_box = tk.Listbox(selectmode=tk.EXTENDED, height=2)
         self.list_box.grid(row=2, columnspan=3, sticky="nsew")
-        self.button_file_first = tk.Button(text="Load XML labeled",   activeforeground="blue", bg="#4e9a06",
+        self.button_file_first = tk.Button(text="Load XML labeled", activeforeground="blue", bg="#4e9a06",
                                            command=lambda: self.open_xml(self.file_first))
         self.button_file_first.grid(row=0, column=0, sticky="nsew")
-        self.button_file_second = tk.Button(text="Load XML neuronet data",  activeforeground="blue", bg="#ffff00",
+        self.button_file_second = tk.Button(text="Load XML neuronet", activeforeground="blue", bg="#ffff00",
                                             command=lambda: self.open_xml(self.file_second))
         self.button_file_second.grid(row=1, column=0, sticky="nsew")
-        self.button_histogram = tk.Button(text="histogram",  activeforeground="blue", bg="#ffb841",
+        self.button_histogram = tk.Button(text="histogram", activeforeground="blue", bg="#ffb841",
                                           command=lambda: self.histogram())
         self.button_histogram.grid(row=3, column=0, sticky="nsew")
         self.button_delete = tk.Button(text="Delete", activeforeground="blue", bg="#ff496c",
@@ -168,7 +167,7 @@ class Application(tk.Frame):
     def question_exit(self):
         ask = messagebox.askquestion("Exit", "Are you sure to quit?")
         if ask == "yes":
-            self.tk.quit()
+            self.quit()
 
     # Открытие гистограммы
     def histogram(self):
@@ -202,7 +201,7 @@ class Application(tk.Frame):
         # Спрятать интервал между гистограммами
         plt.subplots_adjust(wspace=0, hspace=0)
         plt.show()
-        self.quit()
+        self.destroy()
 
     # Удаление файла(ов) при нажатии или выделении через shift
     def delete_file(self):
@@ -245,8 +244,8 @@ def main():
     # Высота экрана
     height = root.winfo_screenheight()
     # Середина экрана
-    width = width//2
-    height = height//2
+    width = width // 2
+    height = height // 2
     # Смещение от середины
     width = width - 200
     height = height - 200
