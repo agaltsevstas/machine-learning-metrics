@@ -38,9 +38,7 @@ def metrics_calculation(xml_paths):
             for j in range(len(neuronet_objects)):
                 neuronet_class = neuronet_objects[j][4]
                 # True positive
-                if labeled_class == neuronet_class and m.intersection_over_union(labeled_objects[i],
-                                                                                  neuronet_objects[j],
-                                                                                  0.5):
+                if labeled_class == neuronet_class and m.iou(labeled_objects[i], neuronet_objects[j], 0.5):
                     labeled_pairs[i] = 1
                     neuronet_pairs[j] = 1
                     metrics[labeled_class].tp += 1
@@ -73,10 +71,10 @@ class Application(tk.Frame):
         self.list_box = tk.Listbox(selectmode=tk.EXTENDED, height=2)
         self.list_box.grid(row=2, columnspan=3, sticky="nsew")
         self.button_file_first = tk.Button(text="Load XML labeled", activeforeground="blue", bg="#4e9a06",
-                                           command=lambda: self.open_xml(self.file_first))
+                                           command=lambda: self.add_file(self.file_first))
         self.button_file_first.grid(row=0, column=0, sticky="nsew")
         self.button_file_second = tk.Button(text="Load XML neuronet", activeforeground="blue", bg="#ffff00",
-                                            command=lambda: self.open_xml(self.file_second))
+                                            command=lambda: self.add_file(self.file_second))
         self.button_file_second.grid(row=1, column=0, sticky="nsew")
         self.button_histogram = tk.Button(text="histogram", activeforeground="blue", bg="#ffb841",
                                           command=lambda: self.histogram())
@@ -85,12 +83,14 @@ class Application(tk.Frame):
                                        command=lambda: self.delete_file())
         self.button_delete.grid(row=3, column=1, sticky="nsew")
         self.button_exit = tk.Button(text="Exit", activeforeground="blue", bg="#42aaff",
-                                     command=lambda: self.question_exit())
+                                     command=lambda: self.exit())
         self.button_exit.grid(row=3, column=2, sticky="nsew")
         self.update_clock()
+        self.master.bind('<Delete>', self.delete_file)
+        self.master.bind('<Escape>', self.exit)
 
     # Загрузка xml файла
-    def open_xml(self, file_selection):
+    def add_file(self, file_selection):
         filepath = tk.filedialog.askopenfilename(initialdir=dir, title="Select XML First",
                                                  filetypes=[("XML files", "*.xml")])
         # Проверка пути к xml файла на пустоту и на совпадение ранее загруженного xml файла с таким же именем
@@ -114,13 +114,14 @@ class Application(tk.Frame):
             print(filepath + " LOADED")
 
     # Выход из программы
-    def question_exit(self):
-        ask = messagebox.askquestion("Exit", "Are you sure to quit?")
+    def exit(self, event=None):
+        ask = messagebox.askquestion(title="Exit", message="Are you sure to quit?")
         if ask == "yes":
             self.master.destroy()
+            self.master.quit()
 
     # Открытие гистограммы
-    def histogram(self):
+    def histogram(self, event=None):
         xml_files = self.list_box.get(0, tk.END)
         metrics_names, metrics = metrics_calculation(xml_files)
         print("CLASSNAME\t" + '\t'.join(metrics_names))
@@ -151,10 +152,9 @@ class Application(tk.Frame):
         # Спрятать интервал между гистограммами
         plt.subplots_adjust(wspace=0, hspace=0)
         plt.show()
-        self.destroy()
 
     # Удаление файла(ов) при нажатии или выделении через shift
-    def delete_file(self):
+    def delete_file(self, event=None):
         select = list(self.list_box.curselection())
         select.reverse()
         for i in select:
@@ -183,8 +183,10 @@ class Application(tk.Frame):
 
         if self.list_box.size() == 2:
             self.button_histogram.config(state=tk.ACTIVE, bg="#ffb841")
+            self.master.bind('<h>', self.histogram)
         else:
             self.button_histogram.config(state=tk.DISABLED, bg="white")
+            self.master.unbind('<h>')
         self.after(100, self.update_clock)
 
 def main():

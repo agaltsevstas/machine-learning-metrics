@@ -1,20 +1,18 @@
 import os
 import xml.etree.ElementTree as ET
 
-# Чтение xml файла
+# Парсинг xml файла
 def read_xml(xmlpath, naming="basename"):
     result = dict()
-    # Parse XML
     tree = ET.parse(xmlpath)
     root = tree.getroot()
     assert(root.tag == "list")
-    # Files loop
-    for filenode in root:
-        if filenode.tag != "file":
+    for file_node in root:
+        if file_node.tag != "file":
             continue
-        # Objects getting loop
+        # Получение элементов
         objects = []
-        for object_node in filenode:   
+        for object_node in file_node:   
             if object_node.tag != "object":
                 continue
             classname = object_node.attrib["className"]
@@ -24,20 +22,20 @@ def read_xml(xmlpath, naming="basename"):
             height = int(object_node.attrib["height"])
             cls = classname
             objects.append([x, y, width, height, cls])
-        # Find image and create text file near it
-        #relpath = os.path.relpath(filenode.attrib["path"].replace('\\', '/'), os.path.dirname(xmlpath))
-        #relpath = filenode.attrib["path"].replace('\\', '/')
-        path = filenode.attrib["path"].replace('\\', '/')
+        # Найти изображение и создать текстовый файл рядом с ним
+        #relpath = os.path.relpath(file_node.attrib["path"].replace('\\', '/'), os.path.dirname(xmlpath))
+        #relpath = file_node.attrib["path"].replace('\\', '/')
+        path = file_node.attrib["path"].replace('\\', '/')
         if naming == "basename":
-            path = os.path.basename(filenode.attrib["path"])
+            path = os.path.basename(file_node.attrib["path"])
         elif naming == "absolute":
             path = os.path.abspath(os.path.join(os.path.dirname(xmlpath), path))
         elif "/" in path:
-            path = os.path.relpath(filenode.attrib["path"].replace('\\', '/'), os.path.dirname(xmlpath))
+            path = os.path.relpath(file_node.attrib["path"].replace('\\', '/'), os.path.dirname(xmlpath))
         result[path] = objects
     return result
 
-# xml файл с новыми строками
+# Xml файл с новыми строками
 def indent(elem, level=0):
     i = "\n" + level*"  "
     if len(elem):
@@ -56,18 +54,18 @@ def indent(elem, level=0):
 # Запись в xml файл
 def write_xml(objects, filepath, list_viewed=None):
     root = ET.Element("list")
-    for fname in objects.keys():
-        filetag = ET.SubElement(root, "file")
-        filetag.set("path", fname)
-        if list_viewed is not None and fname in list_viewed:
-            filetag.set("viewed", "1")
-        for obj in objects[fname]:
-            objtag = ET.SubElement(filetag, "object")            
-            objtag.set('className', obj[4])
-            objtag.set('x', str(obj[0]))
-            objtag.set('y', str(obj[1]))
-            objtag.set('width', str(obj[2]))
-            objtag.set('height', str(obj[3]))
+    for filename in objects.keys():
+        file_tag = ET.SubElement(root, "file")
+        file_tag.set("path", filename)
+        if list_viewed is not None and filename in list_viewed:
+            file_tag.set("viewed", "1")
+        for obj in objects[filename]:
+            object_tag = ET.SubElement(file_tag, "object")            
+            object_tag.set('className', obj[4])
+            object_tag.set('x', str(obj[0]))
+            object_tag.set('y', str(obj[1]))
+            object_tag.set('width', str(obj[2]))
+            object_tag.set('height', str(obj[3]))
     tree = ET.ElementTree(root)
     root = indent(root)    
     tree.write(filepath)
