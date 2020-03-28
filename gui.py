@@ -113,13 +113,6 @@ class Application(tk.Frame):
                 self.filepath_second = filepath
             print(filepath + " LOADED")
 
-    # Выход из программы
-    def exit(self, event=None):
-        ask = messagebox.askquestion(title="Exit", message="Are you sure to quit?")
-        if ask == "yes":
-            self.master.destroy()
-            self.master.quit()
-
     # Открытие гистограммы
     def histogram(self, event=None):
         xml_files = self.list_box.get(0, tk.END)
@@ -165,6 +158,13 @@ class Application(tk.Frame):
                 self.filepath_second = None
             self.list_box.delete(i)
             print(filepath + " DELETED")
+
+    # Выход из программы
+    def exit(self, event=None):
+        ask = messagebox.askquestion(title="Exit", message="Are you sure to quit?")
+        if ask == "yes":
+            self.master.destroy()
+            self.master.quit()
 
     def update_clock(self):
         """
