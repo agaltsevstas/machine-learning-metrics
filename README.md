@@ -73,11 +73,9 @@ python3 gui.py
 </p>
 
 Пользователю предлагается загрузить 2 xml файла: исходный файл source local (load xml labled), а также размеченный нейросетью (load xml nerounet). Результаты работы представлены ниже на рисунках для классов: car, sign, truck, person, trafficlight, bus.
-
 <p align="center">
 <img src="images/2.png"/>
 </p>
-
 <p align="center">
 <img src="images/3.png"/>
 </p>
