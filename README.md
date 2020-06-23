@@ -80,4 +80,17 @@ python3 gui.py
 <img src="images/3.png"/>
 </p>
 
+## Ссылки
+
+* Метрики в задачах машинного обучения 
+https://habr.com/ru/company/ods/blog/328372/
+
+* Object Detection. Распознавай и властвуй. Часть 1  
+https://habr.com/ru/company/jetinfosystems/blog/498294/
+
+* Decoding the Confusion Matrix 
+https://keytodatascience.com/confusion-matrix/
+
+* Object Detection Metrics
+https://github.com/rafaelpadilla/Object-Detection-Metrics#recall
 
