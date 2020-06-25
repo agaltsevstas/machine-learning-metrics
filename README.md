@@ -63,6 +63,12 @@ _порог_: в зависимости от метрики, он обычно �
 <img src="images/f1-score.jpg"/>
 </p>
 
+# Загрузка
+```
+git clone https://gitlab.com/agaltsev.stas/machine-learning-metrics-from-xml.git
+cd machine-learning-metrics-from-xml
+```
+
 # Запуск
 ```
 python3 gui.py
